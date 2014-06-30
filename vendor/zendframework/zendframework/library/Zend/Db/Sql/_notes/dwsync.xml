@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSql.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536004911207" remote="130450536000000000" Dst="2" />
+<file name="Delete.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536006414412" remote="130450536000000000" Dst="2" />
+<file name="Expression.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536006324817" remote="130450536000000000" Dst="2" />
+<file name="ExpressionInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536004791747" remote="130450536000000000" Dst="2" />
+<file name="Having.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536002064077" remote="130450536000000000" Dst="2" />
+<file name="Insert.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535999804292" remote="130450535990000000" Dst="2" />
+<file name="Literal.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536004990847" remote="130450536000000000" Dst="2" />
+<file name="PreparableSqlInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536004692197" remote="130450536000000000" Dst="2" />
+<file name="Select.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536004741972" remote="130450536000000000" Dst="2" />
+<file name="Sql.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536006374592" remote="130450536000000000" Dst="2" />
+<file name="SqlInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536004831567" remote="130450536000000000" Dst="2" />
+<file name="TableIdentifier.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536004951027" remote="130450536000000000" Dst="2" />
+<file name="Update.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536004861432" remote="130450536000000000" Dst="2" />
+<file name="Where.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536000899342" remote="130450536000000000" Dst="2" />
+<file name="AbstractSql.php" server="192.168.1.27/delovodnik/" local="130450536004911207" remote="130461764400000000" Dst="2" />
+<file name="Delete.php" server="192.168.1.27/delovodnik/" local="130450536006414412" remote="130461764400000000" Dst="2" />
+<file name="Expression.php" server="192.168.1.27/delovodnik/" local="130450536006324817" remote="130461764400000000" Dst="2" />
+<file name="ExpressionInterface.php" server="192.168.1.27/delovodnik/" local="130450536004791747" remote="130461764400000000" Dst="2" />
+<file name="Having.php" server="192.168.1.27/delovodnik/" local="130450536002064077" remote="130461764400000000" Dst="2" />
+<file name="Insert.php" server="192.168.1.27/delovodnik/" local="130450535999804292" remote="130461764400000000" Dst="2" />
+<file name="Literal.php" server="192.168.1.27/delovodnik/" local="130450536004990847" remote="130461764400000000" Dst="2" />
+<file name="PreparableSqlInterface.php" server="192.168.1.27/delovodnik/" local="130450536004692197" remote="130461764400000000" Dst="2" />
+<file name="Select.php" server="192.168.1.27/delovodnik/" local="130450536004741972" remote="130461764400000000" Dst="2" />
+<file name="Sql.php" server="192.168.1.27/delovodnik/" local="130450536006374592" remote="130461764400000000" Dst="2" />
+<file name="SqlInterface.php" server="192.168.1.27/delovodnik/" local="130450536004831567" remote="130461764400000000" Dst="2" />
+<file name="TableIdentifier.php" server="192.168.1.27/delovodnik/" local="130450536004951027" remote="130461764400000000" Dst="2" />
+<file name="Update.php" server="192.168.1.27/delovodnik/" local="130450536004861432" remote="130461764400000000" Dst="2" />
+<file name="Where.php" server="192.168.1.27/delovodnik/" local="130450536000899342" remote="130461764400000000" Dst="2" />
+</dwsync>

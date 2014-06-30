@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadMethodCallException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535872509707" remote="130450535870000000" Dst="2" />
+<file name="DomainException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535872619212" remote="130450535870000000" Dst="2" />
+<file name="ExceptionInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535872469887" remote="130450535870000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535872649077" remote="130450535870000000" Dst="2" />
+<file name="InvalidControllerException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535872400202" remote="130450535870000000" Dst="2" />
+<file name="InvalidPluginException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535872579392" remote="130450535870000000" Dst="2" />
+<file name="MissingLocatorException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535872440022" remote="130450535870000000" Dst="2" />
+<file name="RuntimeException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535872539572" remote="130450535870000000" Dst="2" />
+<file name="BadMethodCallException.php" server="192.168.1.27/delovodnik/" local="130450535872509707" remote="130461765000000000" Dst="2" />
+<file name="DomainException.php" server="192.168.1.27/delovodnik/" local="130450535872619212" remote="130461765000000000" Dst="2" />
+<file name="ExceptionInterface.php" server="192.168.1.27/delovodnik/" local="130450535872469887" remote="130461765000000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="192.168.1.27/delovodnik/" local="130450535872649077" remote="130461765000000000" Dst="2" />
+<file name="InvalidControllerException.php" server="192.168.1.27/delovodnik/" local="130450535872400202" remote="130461765000000000" Dst="2" />
+<file name="InvalidPluginException.php" server="192.168.1.27/delovodnik/" local="130450535872579392" remote="130461765000000000" Dst="2" />
+<file name="MissingLocatorException.php" server="192.168.1.27/delovodnik/" local="130450535872440022" remote="130461765000000000" Dst="2" />
+<file name="RuntimeException.php" server="192.168.1.27/delovodnik/" local="130450535872539572" remote="130461765000000000" Dst="2" />
+</dwsync>

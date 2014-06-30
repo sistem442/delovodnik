@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ExceptionInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535963597957" remote="130450535960000000" Dst="2" />
+<file name="InitializationException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535963488452" remote="130450535960000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535963518317" remote="130450535960000000" Dst="2" />
+<file name="OutOfRangeException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535963568092" remote="130450535960000000" Dst="2" />
+<file name="RuntimeException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535963418767" remote="130450535960000000" Dst="2" />
+<file name="TimeoutException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535963448632" remote="130450535960000000" Dst="2" />
+<file name="ExceptionInterface.php" server="192.168.1.27/delovodnik/" local="130450535963597957" remote="130461764400000000" Dst="2" />
+<file name="InitializationException.php" server="192.168.1.27/delovodnik/" local="130450535963488452" remote="130461764400000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="192.168.1.27/delovodnik/" local="130450535963518317" remote="130461764400000000" Dst="2" />
+<file name="OutOfRangeException.php" server="192.168.1.27/delovodnik/" local="130450535963568092" remote="130461764400000000" Dst="2" />
+<file name="RuntimeException.php" server="192.168.1.27/delovodnik/" local="130450535963418767" remote="130461764400000000" Dst="2" />
+<file name="TimeoutException.php" server="192.168.1.27/delovodnik/" local="130450535963448632" remote="130461764400000000" Dst="2" />
+</dwsync>

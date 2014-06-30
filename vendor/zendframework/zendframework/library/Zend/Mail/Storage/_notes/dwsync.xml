@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractStorage.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536094725217" remote="130450536090000000" Dst="2" />
+<file name="Folder.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536095123417" remote="130450536090000000" Dst="2" />
+<file name="Imap.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536096994957" remote="130450536090000000" Dst="2" />
+<file name="Maildir.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536096099007" remote="130450536090000000" Dst="2" />
+<file name="Mbox.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536096935227" remote="130450536090000000" Dst="2" />
+<file name="Message.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536096566892" remote="130450536090000000" Dst="2" />
+<file name="Part.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536097044732" remote="130450536090000000" Dst="2" />
+<file name="Pop3.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536096148782" remote="130450536090000000" Dst="2" />
+<file name="AbstractStorage.php" server="192.168.1.27/delovodnik/" local="130450536094725217" remote="130461764400000000" Dst="2" />
+<file name="Folder.php" server="192.168.1.27/delovodnik/" local="130450536095123417" remote="130461764400000000" Dst="2" />
+<file name="Imap.php" server="192.168.1.27/delovodnik/" local="130450536096994957" remote="130461764400000000" Dst="2" />
+<file name="Maildir.php" server="192.168.1.27/delovodnik/" local="130450536096099007" remote="130461764400000000" Dst="2" />
+<file name="Mbox.php" server="192.168.1.27/delovodnik/" local="130450536096935227" remote="130461764400000000" Dst="2" />
+<file name="Message.php" server="192.168.1.27/delovodnik/" local="130450536096566892" remote="130461764400000000" Dst="2" />
+<file name="Part.php" server="192.168.1.27/delovodnik/" local="130450536097044732" remote="130461764400000000" Dst="2" />
+<file name="Pop3.php" server="192.168.1.27/delovodnik/" local="130450536096148782" remote="130461764400000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="DictionaryLoader.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536129657312" remote="130450536120000000" Dst="2" />
+<file name="DocsFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536129766817" remote="130450536120000000" Dst="2" />
+<file name="FieldInfo.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536129886277" remote="130450536120000000" Dst="2" />
+<file name="SegmentInfo.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536129806637" remote="130450536120000000" Dst="2" />
+<file name="SegmentMerger.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536129020192" remote="130450536120000000" Dst="2" />
+<file name="Term.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536129060012" remote="130450536120000000" Dst="2" />
+<file name="TermInfo.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536128980372" remote="130450536120000000" Dst="2" />
+<file name="TermsPriorityQueue.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536129916142" remote="130450536120000000" Dst="2" />
+<file name="TermsStreamInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536129099832" remote="130450536120000000" Dst="2" />
+<file name="Writer.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536129707087" remote="130450536120000000" Dst="2" />
+<file name="DictionaryLoader.php" server="192.168.1.27/delovodnik/" local="130450536129657312" remote="130461765000000000" Dst="2" />
+<file name="DocsFilter.php" server="192.168.1.27/delovodnik/" local="130450536129766817" remote="130461765000000000" Dst="2" />
+<file name="FieldInfo.php" server="192.168.1.27/delovodnik/" local="130450536129886277" remote="130461765000000000" Dst="2" />
+<file name="SegmentInfo.php" server="192.168.1.27/delovodnik/" local="130450536129806637" remote="130461765000000000" Dst="2" />
+<file name="SegmentMerger.php" server="192.168.1.27/delovodnik/" local="130450536129020192" remote="130461765000000000" Dst="2" />
+<file name="Term.php" server="192.168.1.27/delovodnik/" local="130450536129060012" remote="130461765000000000" Dst="2" />
+<file name="TermInfo.php" server="192.168.1.27/delovodnik/" local="130450536128980372" remote="130461765000000000" Dst="2" />
+<file name="TermsPriorityQueue.php" server="192.168.1.27/delovodnik/" local="130450536129916142" remote="130461765000000000" Dst="2" />
+<file name="TermsStreamInterface.php" server="192.168.1.27/delovodnik/" local="130450536129099832" remote="130461765000000000" Dst="2" />
+<file name="Writer.php" server="192.168.1.27/delovodnik/" local="130450536129707087" remote="130461765000000000" Dst="2" />
+</dwsync>

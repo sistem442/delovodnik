@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AutoloaderProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089200192" remote="130450536080000000" Dst="2" />
+<file name="BootstrapListenerInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089528707" remote="130450536080000000" Dst="2" />
+<file name="ConfigProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089409247" remote="130450536080000000" Dst="2" />
+<file name="ConsoleBannerProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089926907" remote="130450536080000000" Dst="2" />
+<file name="ConsoleUsageProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089887087" remote="130450536080000000" Dst="2" />
+<file name="ControllerPluginProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089329607" remote="130450536080000000" Dst="2" />
+<file name="ControllerProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089767627" remote="130450536080000000" Dst="2" />
+<file name="DependencyIndicatorInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089249967" remote="130450536080000000" Dst="2" />
+<file name="FilterProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089847267" remote="130450536080000000" Dst="2" />
+<file name="FormElementProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089638212" remote="130450536080000000" Dst="2" />
+<file name="HydratorProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089090687" remote="130450536080000000" Dst="2" />
+<file name="InitProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089379382" remote="130450536080000000" Dst="2" />
+<file name="InputFilterProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089449067" remote="130450536080000000" Dst="2" />
+<file name="LocatorRegisteredInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089488887" remote="130450536080000000" Dst="2" />
+<file name="LogProcessorProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089727807" remote="130450536080000000" Dst="2" />
+<file name="LogWriterProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089678032" remote="130450536080000000" Dst="2" />
+<file name="RouteProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089140462" remote="130450536080000000" Dst="2" />
+<file name="SerializerProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089568527" remote="130450536080000000" Dst="2" />
+<file name="ServiceProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089289787" remote="130450536080000000" Dst="2" />
+<file name="ValidatorProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089807447" remote="130450536080000000" Dst="2" />
+<file name="ViewHelperProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536089598392" remote="130450536080000000" Dst="2" />
+<file name="AutoloaderProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089200192" remote="130461765000000000" Dst="2" />
+<file name="BootstrapListenerInterface.php" server="192.168.1.27/delovodnik/" local="130450536089528707" remote="130461765000000000" Dst="2" />
+<file name="ConfigProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089409247" remote="130461765000000000" Dst="2" />
+<file name="ConsoleBannerProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089926907" remote="130461765000000000" Dst="2" />
+<file name="ConsoleUsageProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089887087" remote="130461765000000000" Dst="2" />
+<file name="ControllerPluginProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089329607" remote="130461765000000000" Dst="2" />
+<file name="ControllerProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089767627" remote="130461765000000000" Dst="2" />
+<file name="DependencyIndicatorInterface.php" server="192.168.1.27/delovodnik/" local="130450536089249967" remote="130461765000000000" Dst="2" />
+<file name="FilterProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089847267" remote="130461765000000000" Dst="2" />
+<file name="FormElementProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089638212" remote="130461765000000000" Dst="2" />
+<file name="HydratorProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089090687" remote="130461765000000000" Dst="2" />
+<file name="InitProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089379382" remote="130461765000000000" Dst="2" />
+<file name="InputFilterProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089449067" remote="130461765000000000" Dst="2" />
+<file name="LocatorRegisteredInterface.php" server="192.168.1.27/delovodnik/" local="130450536089488887" remote="130461765000000000" Dst="2" />
+<file name="LogProcessorProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089727807" remote="130461765000000000" Dst="2" />
+<file name="LogWriterProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089678032" remote="130461765000000000" Dst="2" />
+<file name="RouteProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089140462" remote="130461765000000000" Dst="2" />
+<file name="SerializerProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089568527" remote="130461765000000000" Dst="2" />
+<file name="ServiceProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089289787" remote="130461765000000000" Dst="2" />
+<file name="ValidatorProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089807447" remote="130461765000000000" Dst="2" />
+<file name="ViewHelperProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450536089598392" remote="130461765000000000" Dst="2" />
+</dwsync>

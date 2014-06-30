@@ -1,0 +1,30 @@
+{
+    "name": "zendframework/skeleton-application",
+	"name": "zendframework/zendsearch",
+    "description": "Skeleton Application for ZF2",
+	"type": "library",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "framework",
+        "zf2","lucene"
+    ],
+    "homepage": "http://framework.zend.com/",
+	"homepage": "http://packages.zendframework.com/",
+	"autoload": {
+        "psr-0": {
+            "ZendSearch": "library/"
+        }
+    },
+		"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/zendframework/ZendSearch"
+    }
+],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "2.3.*",
+		"zendframework/zend-stdlib": "2.*"
+    }
+
+}

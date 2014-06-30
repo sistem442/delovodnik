@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractAsset.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592757543" remote="130458402590000000" Dst="2" />
+<file name="AbstractSchemaManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592757543" remote="130458402590000000" Dst="2" />
+<file name="Column.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592767544" remote="130458402590000000" Dst="2" />
+<file name="ColumnDiff.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592767544" remote="130458402590000000" Dst="2" />
+<file name="Comparator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592777545" remote="130458402590000000" Dst="2" />
+<file name="Constraint.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592777545" remote="130458402590000000" Dst="2" />
+<file name="DB2SchemaManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592787546" remote="130458402590000000" Dst="2" />
+<file name="DrizzleSchemaManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592787546" remote="130458402590000000" Dst="2" />
+<file name="ForeignKeyConstraint.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592797547" remote="130458402590000000" Dst="2" />
+<file name="Identifier.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592797547" remote="130458402590000000" Dst="2" />
+<file name="Index.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592807548" remote="130458402590000000" Dst="2" />
+<file name="MySqlSchemaManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592807548" remote="130458402590000000" Dst="2" />
+<file name="OracleSchemaManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592817549" remote="130458402590000000" Dst="2" />
+<file name="PostgreSqlSchemaManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592817549" remote="130458402590000000" Dst="2" />
+<file name="Schema.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592827550" remote="130458402590000000" Dst="2" />
+<file name="SchemaConfig.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592837551" remote="130458402590000000" Dst="2" />
+<file name="SchemaDiff.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592837551" remote="130458402590000000" Dst="2" />
+<file name="SchemaException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592847552" remote="130458402590000000" Dst="2" />
+<file name="Sequence.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592847552" remote="130458402590000000" Dst="2" />
+<file name="SqliteSchemaManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592857553" remote="130458402590000000" Dst="2" />
+<file name="SQLServerSchemaManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592827550" remote="130458402590000000" Dst="2" />
+<file name="Table.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592887556" remote="130458402590000000" Dst="2" />
+<file name="TableDiff.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592887556" remote="130458402590000000" Dst="2" />
+<file name="View.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592897557" remote="130458402590000000" Dst="2" />
+</dwsync>

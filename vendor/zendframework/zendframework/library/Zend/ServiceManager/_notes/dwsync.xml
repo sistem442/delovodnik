@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractFactoryInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535879697217" remote="130450535870000000" Dst="2" />
+<file name="AbstractPluginManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535879737037" remote="130450535870000000" Dst="2" />
+<file name="composer.json" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535879627532" remote="130450535870000000" Dst="2" />
+<file name="Config.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535878144237" remote="130450535870000000" Dst="2" />
+<file name="ConfigInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535877278152" remote="130450535870000000" Dst="2" />
+<file name="DelegatorFactoryInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535879786812" remote="130450535870000000" Dst="2" />
+<file name="FactoryInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535877308017" remote="130450535870000000" Dst="2" />
+<file name="InitializerInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535878104417" remote="130450535870000000" Dst="2" />
+<file name="MutableCreationOptionsInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535879667352" remote="130450535870000000" Dst="2" />
+<file name="README.md" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535878880907" remote="130450535870000000" Dst="2" />
+<file name="ServiceLocatorAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535877238332" remote="130450535870000000" Dst="2" />
+<file name="ServiceLocatorAwareTrait.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535879587712" remote="130450535870000000" Dst="2" />
+<file name="ServiceLocatorInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535878184057" remote="130450535870000000" Dst="2" />
+<file name="ServiceManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535878014822" remote="130450535870000000" Dst="2" />
+<file name="ServiceManagerAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535878064597" remote="130450535870000000" Dst="2" />
+<file name="AbstractFactoryInterface.php" server="192.168.1.27/delovodnik/" local="130450535879697217" remote="130461765000000000" Dst="2" />
+<file name="AbstractPluginManager.php" server="192.168.1.27/delovodnik/" local="130450535879737037" remote="130461765000000000" Dst="2" />
+<file name="composer.json" server="192.168.1.27/delovodnik/" local="130450535879627532" remote="130461765000000000" Dst="2" />
+<file name="Config.php" server="192.168.1.27/delovodnik/" local="130450535878144237" remote="130461765000000000" Dst="2" />
+<file name="ConfigInterface.php" server="192.168.1.27/delovodnik/" local="130450535877278152" remote="130461765000000000" Dst="2" />
+<file name="DelegatorFactoryInterface.php" server="192.168.1.27/delovodnik/" local="130450535879786812" remote="130461765000000000" Dst="2" />
+<file name="FactoryInterface.php" server="192.168.1.27/delovodnik/" local="130450535877308017" remote="130461765000000000" Dst="2" />
+<file name="InitializerInterface.php" server="192.168.1.27/delovodnik/" local="130450535878104417" remote="130461765000000000" Dst="2" />
+<file name="MutableCreationOptionsInterface.php" server="192.168.1.27/delovodnik/" local="130450535879667352" remote="130461765000000000" Dst="2" />
+<file name="README.md" server="192.168.1.27/delovodnik/" local="130450535878880907" remote="130461765000000000" Dst="2" />
+<file name="ServiceLocatorAwareInterface.php" server="192.168.1.27/delovodnik/" local="130450535877238332" remote="130461765000000000" Dst="2" />
+<file name="ServiceLocatorAwareTrait.php" server="192.168.1.27/delovodnik/" local="130450535879587712" remote="130461765000000000" Dst="2" />
+<file name="ServiceLocatorInterface.php" server="192.168.1.27/delovodnik/" local="130450535878184057" remote="130461765000000000" Dst="2" />
+<file name="ServiceManager.php" server="192.168.1.27/delovodnik/" local="130450535878014822" remote="130461765000000000" Dst="2" />
+<file name="ServiceManagerAwareInterface.php" server="192.168.1.27/delovodnik/" local="130450535878064597" remote="130461765000000000" Dst="2" />
+</dwsync>

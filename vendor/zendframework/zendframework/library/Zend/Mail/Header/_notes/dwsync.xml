@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractAddressList.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536098259242" remote="130450536090000000" Dst="2" />
+<file name="Bcc.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099871952" remote="130450536090000000" Dst="2" />
+<file name="Cc.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099692762" remote="130450536090000000" Dst="2" />
+<file name="ContentTransferEncoding.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099832132" remote="130450536090000000" Dst="2" />
+<file name="ContentType.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099414022" remote="130450536090000000" Dst="2" />
+<file name="Date.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099453842" remote="130450536090000000" Dst="2" />
+<file name="From.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536098219422" remote="130450536090000000" Dst="2" />
+<file name="GenericHeader.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099732582" remote="130450536090000000" Dst="2" />
+<file name="GenericMultiHeader.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536098139782" remote="130450536090000000" Dst="2" />
+<file name="HeaderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099374202" remote="130450536090000000" Dst="2" />
+<file name="HeaderLoader.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099493662" remote="130450536090000000" Dst="2" />
+<file name="HeaderWrap.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099573302" remote="130450536090000000" Dst="2" />
+<file name="MessageId.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536098179602" remote="130450536090000000" Dst="2" />
+<file name="MimeVersion.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536098020322" remote="130450536090000000" Dst="2" />
+<file name="MultipleHeadersInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099334382" remote="130450536090000000" Dst="2" />
+<file name="Received.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099782357" remote="130450536090000000" Dst="2" />
+<file name="ReplyTo.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536098060142" remote="130450536090000000" Dst="2" />
+<file name="Sender.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099533482" remote="130450536090000000" Dst="2" />
+<file name="StructuredInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099652942" remote="130450536090000000" Dst="2" />
+<file name="Subject.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536098099962" remote="130450536090000000" Dst="2" />
+<file name="To.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099613122" remote="130450536090000000" Dst="2" />
+<file name="UnstructuredInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536099901817" remote="130450536090000000" Dst="2" />
+<file name="AbstractAddressList.php" server="192.168.1.27/delovodnik/" local="130450536098259242" remote="130461764400000000" Dst="2" />
+<file name="Bcc.php" server="192.168.1.27/delovodnik/" local="130450536099871952" remote="130461764400000000" Dst="2" />
+<file name="Cc.php" server="192.168.1.27/delovodnik/" local="130450536099692762" remote="130461764400000000" Dst="2" />
+<file name="ContentTransferEncoding.php" server="192.168.1.27/delovodnik/" local="130450536099832132" remote="130461764400000000" Dst="2" />
+<file name="ContentType.php" server="192.168.1.27/delovodnik/" local="130450536099414022" remote="130461764400000000" Dst="2" />
+<file name="Date.php" server="192.168.1.27/delovodnik/" local="130450536099453842" remote="130461764400000000" Dst="2" />
+<file name="From.php" server="192.168.1.27/delovodnik/" local="130450536098219422" remote="130461764400000000" Dst="2" />
+<file name="GenericHeader.php" server="192.168.1.27/delovodnik/" local="130450536099732582" remote="130461764400000000" Dst="2" />
+<file name="GenericMultiHeader.php" server="192.168.1.27/delovodnik/" local="130450536098139782" remote="130461764400000000" Dst="2" />
+<file name="HeaderInterface.php" server="192.168.1.27/delovodnik/" local="130450536099374202" remote="130461764400000000" Dst="2" />
+<file name="HeaderLoader.php" server="192.168.1.27/delovodnik/" local="130450536099493662" remote="130461764400000000" Dst="2" />
+<file name="HeaderWrap.php" server="192.168.1.27/delovodnik/" local="130450536099573302" remote="130461764400000000" Dst="2" />
+<file name="MessageId.php" server="192.168.1.27/delovodnik/" local="130450536098179602" remote="130461764400000000" Dst="2" />
+<file name="MimeVersion.php" server="192.168.1.27/delovodnik/" local="130450536098020322" remote="130461764400000000" Dst="2" />
+<file name="MultipleHeadersInterface.php" server="192.168.1.27/delovodnik/" local="130450536099334382" remote="130461764400000000" Dst="2" />
+<file name="Received.php" server="192.168.1.27/delovodnik/" local="130450536099782357" remote="130461764400000000" Dst="2" />
+<file name="ReplyTo.php" server="192.168.1.27/delovodnik/" local="130450536098060142" remote="130461764400000000" Dst="2" />
+<file name="Sender.php" server="192.168.1.27/delovodnik/" local="130450536099533482" remote="130461764400000000" Dst="2" />
+<file name="StructuredInterface.php" server="192.168.1.27/delovodnik/" local="130450536099652942" remote="130461764400000000" Dst="2" />
+<file name="Subject.php" server="192.168.1.27/delovodnik/" local="130450536098099962" remote="130461764400000000" Dst="2" />
+<file name="To.php" server="192.168.1.27/delovodnik/" local="130450536099613122" remote="130461764400000000" Dst="2" />
+<file name="UnstructuredInterface.php" server="192.168.1.27/delovodnik/" local="130450536099901817" remote="130461764400000000" Dst="2" />
+</dwsync>

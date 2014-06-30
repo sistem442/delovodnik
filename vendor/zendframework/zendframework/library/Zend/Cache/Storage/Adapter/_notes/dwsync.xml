@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractAdapter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909343207" remote="130450535900000000" Dst="2" />
+<file name="AbstractZendServer.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909592082" remote="130450535900000000" Dst="2" />
+<file name="AdapterOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909134152" remote="130450535900000000" Dst="2" />
+<file name="Apc.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908656312" remote="130450535900000000" Dst="2" />
+<file name="ApcIterator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908855412" remote="130450535900000000" Dst="2" />
+<file name="ApcOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908138652" remote="130450535900000000" Dst="2" />
+<file name="BlackHole.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908307887" remote="130450535900000000" Dst="2" />
+<file name="Dba.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908357662" remote="130450535900000000" Dst="2" />
+<file name="DbaIterator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908487077" remote="130450535900000000" Dst="2" />
+<file name="DbaOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908576672" remote="130450535900000000" Dst="2" />
+<file name="Filesystem.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908984827" remote="130450535900000000" Dst="2" />
+<file name="FilesystemIterator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909173972" remote="130450535900000000" Dst="2" />
+<file name="FilesystemOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909293432" remote="130450535900000000" Dst="2" />
+<file name="KeyListIterator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908447257" remote="130450535900000000" Dst="2" />
+<file name="Memcache.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908526897" remote="130450535900000000" Dst="2" />
+<file name="Memcached.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909452712" remote="130450535900000000" Dst="2" />
+<file name="MemcachedOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908218292" remote="130450535900000000" Dst="2" />
+<file name="MemcachedResourceManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909552262" remote="130450535900000000" Dst="2" />
+<file name="MemcacheOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908885277" remote="130450535900000000" Dst="2" />
+<file name="MemcacheResourceManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908706087" remote="130450535900000000" Dst="2" />
+<file name="Memory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908805637" remote="130450535900000000" Dst="2" />
+<file name="MemoryOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909044557" remote="130450535900000000" Dst="2" />
+<file name="Redis.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909402937" remote="130450535900000000" Dst="2" />
+<file name="RedisOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908178472" remote="130450535900000000" Dst="2" />
+<file name="RedisResourceManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909502487" remote="130450535900000000" Dst="2" />
+<file name="Session.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908258112" remote="130450535900000000" Dst="2" />
+<file name="SessionOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909253612" remote="130450535900000000" Dst="2" />
+<file name="WinCache.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908935052" remote="130450535900000000" Dst="2" />
+<file name="WinCacheOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908407437" remote="130450535900000000" Dst="2" />
+<file name="XCache.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909084377" remote="130450535900000000" Dst="2" />
+<file name="XCacheOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908755862" remote="130450535900000000" Dst="2" />
+<file name="ZendServerDisk.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535908616492" remote="130450535900000000" Dst="2" />
+<file name="ZendServerShm.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535909213792" remote="130450535900000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,57 @@
+<script type="text/javascript">
+//***************************funkcija za upload vise fajlova****************************
+var sledeci = 0; //cuva redni broj/ime sledeceg inputa fajla
+function display() {
+	var id = sledeci;
+	document.getElementById('number_of_files').value = sledeci + 1;//upisujem koliko ima fajlova da bih znao koliko puta treba da vrtim petlju za upis u bazu
+	document.getElementById('newInput'+id).innerHTML+=createInput(id);// ovo upisuje novi input na html stranicu
+	var newInput = "fajl" + id;
+	document.getElementById('fajl'+id).click();// automatski trazi da izaberes fajl kada pritisnes link za novi fajl
+}
+function createInput(id) {
+	sledeci = id + 1;
+	return "<p>Fajl "+ id +": <input type='file' id='file"+ id +"' name='"+id+"'></p><br />Komentar:<input type='text' name='"+id+"label'><br /><p id='newInput"+sledeci+"'>&nbsp;</p>";
+}
+</script>
+<h1>Unos je uspešan</h1>
+
+
+<table class="table">
+    <tr>
+        <th>Delovodni Broj</th>
+        <th>Datum unosa</th>
+        <th>Predmet</th>
+        <th>Firma ili lice</th>
+        <th>Njihov broj</th>
+        <th>Datum na dokumentu</th>
+        <th>Lokacija dokumenta</th>
+        <th>Napomena</th>
+    </tr>
+    <?php
+    $row=$this->data;
+    ?>
+    <tr>
+        <td><?php  echo $row['doc_id']; ?></td>
+        <td><?php  echo $row['date_of_entry']; ?></td>
+        <td><?php  echo $row['doc_title']; ?></td>
+        <td><?php  echo $row['company']; ?></td>
+        <td><?php  echo $row['doc_company_id']; ?></td>
+        <td><?php  echo $row['date']; ?></td>
+        <td><?php  echo $row['doc_location']; ?></td>
+        <td><?php  echo $row['remark']; ?></td>
+        <td><a href="<?php echo $this->url('delovodnik/default', array('controller' => 'delovodnik', 'action' => 'update', 'id' => $row['id'])); ?>">Edit</a></td>
+    </tr>
+</table>
+
+<form action="/file-manager/FileManager/processUpload/<?php  echo $row['id']; ?>" method="post" enctype="multipart/form-data"/>
+<div class="left">Upload fajlova:</div>
+  <div class="right">
+    <input  type="hidden" name="number_of_files" id="number_of_files" value="0"/>
+     <br />
+    <p id="newInput0">&nbsp;</p>
+    <p><a href="javascript:display()">Dodaj još jedan fajl</a></p>
+    <br />
+    <br />
+  </div>
+<input type="submit" value="Pošalji fajlove"/>
+</form>

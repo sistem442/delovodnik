@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535969959202" remote="130450535960000000" Dst="2" />
+<file name="AbstractLogicalFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535969610777" remote="130450535960000000" Dst="2" />
+<file name="AndFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535969730237" remote="130450535960000000" Dst="2" />
+<file name="MaskFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535969570957" remote="130450535960000000" Dst="2" />
+<file name="NotFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535969640642" remote="130450535960000000" Dst="2" />
+<file name="OrFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535969680462" remote="130450535960000000" Dst="2" />
+<file name="StringFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535969999022" remote="130450535960000000" Dst="2" />
+<file name="AbstractFilter.php" server="192.168.1.27/delovodnik/" local="130450535969959202" remote="130461764400000000" Dst="2" />
+<file name="AbstractLogicalFilter.php" server="192.168.1.27/delovodnik/" local="130450535969610777" remote="130461764400000000" Dst="2" />
+<file name="AndFilter.php" server="192.168.1.27/delovodnik/" local="130450535969730237" remote="130461764400000000" Dst="2" />
+<file name="MaskFilter.php" server="192.168.1.27/delovodnik/" local="130450535969570957" remote="130461764400000000" Dst="2" />
+<file name="NotFilter.php" server="192.168.1.27/delovodnik/" local="130450535969640642" remote="130461764400000000" Dst="2" />
+<file name="OrFilter.php" server="192.168.1.27/delovodnik/" local="130450535969680462" remote="130461764400000000" Dst="2" />
+<file name="StringFilter.php" server="192.168.1.27/delovodnik/" local="130450535969999022" remote="130461764400000000" Dst="2" />
+</dwsync>

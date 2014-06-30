@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractQuery.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536128174017" remote="130450536120000000" Dst="2" />
+<file name="Boolean.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536127875367" remote="130450536120000000" Dst="2" />
+<file name="EmptyResult.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536127138697" remote="130450536120000000" Dst="2" />
+<file name="Fuzzy.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536128074467" remote="130450536120000000" Dst="2" />
+<file name="Insignificant.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536128034647" remote="130450536120000000" Dst="2" />
+<file name="MultiTerm.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536127935097" remote="130450536120000000" Dst="2" />
+<file name="Phrase.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536127984872" remote="130450536120000000" Dst="2" />
+<file name="Range.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536127088922" remote="130450536120000000" Dst="2" />
+<file name="Term.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536128124242" remote="130450536120000000" Dst="2" />
+<file name="Wildcard.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536128223792" remote="130450536120000000" Dst="2" />
+<file name="AbstractQuery.php" server="192.168.1.27/delovodnik/" local="130450536128174017" remote="130461765000000000" Dst="2" />
+<file name="Boolean.php" server="192.168.1.27/delovodnik/" local="130450536127875367" remote="130461765000000000" Dst="2" />
+<file name="EmptyResult.php" server="192.168.1.27/delovodnik/" local="130450536127138697" remote="130461765000000000" Dst="2" />
+<file name="Fuzzy.php" server="192.168.1.27/delovodnik/" local="130450536128074467" remote="130461765000000000" Dst="2" />
+<file name="Insignificant.php" server="192.168.1.27/delovodnik/" local="130450536128034647" remote="130461765000000000" Dst="2" />
+<file name="MultiTerm.php" server="192.168.1.27/delovodnik/" local="130450536127935097" remote="130461765000000000" Dst="2" />
+<file name="Phrase.php" server="192.168.1.27/delovodnik/" local="130450536127984872" remote="130461765000000000" Dst="2" />
+<file name="Range.php" server="192.168.1.27/delovodnik/" local="130450536127088922" remote="130461765000000000" Dst="2" />
+<file name="Term.php" server="192.168.1.27/delovodnik/" local="130450536128124242" remote="130461765000000000" Dst="2" />
+<file name="Wildcard.php" server="192.168.1.27/delovodnik/" local="130450536128223792" remote="130461765000000000" Dst="2" />
+</dwsync>

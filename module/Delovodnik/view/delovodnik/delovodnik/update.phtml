@@ -1,0 +1,15 @@
+<h1>Update</h1>
+<?php
+$form = $this->form;
+$form->prepare();
+// Assuming the "contact/process" route exists...
+$form->setAttribute('action', $this->url('delovodnik/default', array('controller' => 'Delovodnik', 'action' => 'update', 'id' => $id))); //'contact/process'));
+// Set the method attribute for the form
+$form->setAttribute('method', 'post');
+
+echo $this->form()->openTag($form);
+echo $this->formCollection($form);
+echo $this->form()->closeTag();
+
+?>
+<a href="/file-manager/FileManager/edit/<?php echo $id;?>">Upravljanje fajlovima</a>

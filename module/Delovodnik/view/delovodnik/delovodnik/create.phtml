@@ -1,0 +1,11 @@
+<?php
+echo '<h1>Upiši novi dokument</h1>';
+$form = $this->form;
+$form->prepare();
+$form->setAttribute('action', $this->url('delovodnik/default', array('controller' => 'Delovodnik', 'action' => 'create'))); 
+
+$form->setAttribute('method', 'post');
+
+echo $this->form()->openTag($form);
+echo $this->formCollection($form);
+echo $this->form()->closeTag();

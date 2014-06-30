@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Application.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535872230967" remote="130450535870000000" Dst="2" />
+<file name="ApplicationInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535864416292" remote="130450535860000000" Dst="2" />
+<file name="composer.json" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535873186647" remote="130450535870000000" Dst="2" />
+<file name="DispatchListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535872320562" remote="130450535870000000" Dst="2" />
+<file name="InjectApplicationEventInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535864376472" remote="130450535860000000" Dst="2" />
+<file name="ModuleRouteListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535862086822" remote="130450535860000000" Dst="2" />
+<file name="MvcEvent.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535865919497" remote="130450535860000000" Dst="2" />
+<file name="README.md" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535872360382" remote="130450535870000000" Dst="2" />
+<file name="RouteListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535872280742" remote="130450535870000000" Dst="2" />
+<file name="SendResponseListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535864336652" remote="130450535860000000" Dst="2" />
+<file name="Application.php" server="192.168.1.27/delovodnik/" local="130450535872230967" remote="130461765000000000" Dst="2" />
+<file name="ApplicationInterface.php" server="192.168.1.27/delovodnik/" local="130450535864416292" remote="130461765000000000" Dst="2" />
+<file name="composer.json" server="192.168.1.27/delovodnik/" local="130450535873186647" remote="130461765000000000" Dst="2" />
+<file name="DispatchListener.php" server="192.168.1.27/delovodnik/" local="130450535872320562" remote="130461765000000000" Dst="2" />
+<file name="InjectApplicationEventInterface.php" server="192.168.1.27/delovodnik/" local="130450535864376472" remote="130461765000000000" Dst="2" />
+<file name="ModuleRouteListener.php" server="192.168.1.27/delovodnik/" local="130450535862086822" remote="130461765000000000" Dst="2" />
+<file name="MvcEvent.php" server="192.168.1.27/delovodnik/" local="130450535865919497" remote="130461765000000000" Dst="2" />
+<file name="README.md" server="192.168.1.27/delovodnik/" local="130450535872360382" remote="130461765000000000" Dst="2" />
+<file name="RouteListener.php" server="192.168.1.27/delovodnik/" local="130450535872280742" remote="130461765000000000" Dst="2" />
+<file name="SendResponseListener.php" server="192.168.1.27/delovodnik/" local="130450535864336652" remote="130461765000000000" Dst="2" />
+</dwsync>

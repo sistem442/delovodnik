@@ -1,0 +1,18 @@
+<?php  $this->headScript()
+			->appendFile($this->basePath() . '/js/file_manager_add_file.js'); ?>
+
+<form action="/file-manager/FileManager/processUpload/<?php echo  $data_table_id; ?>" method="post" enctype="multipart/form-data"/>
+<span style='color:<?php echo $color;?>'><?php echo $message;?></span>
+<br/>
+<br/>
+<div>Upload fajlova:</div>
+  <div>
+    <input  type="hidden" name="number_of_files" id="number_of_files" value="0"/>
+     <br />
+    <p id="newInput0">&nbsp;</p>
+    <p><a href="javascript:display()">Dodaj još jedan fajl</a> ili <a href="/file-manager/FileManager/edit/<?php echo $data_table_id;?>">Upravljanje fajlovima</a></p>
+    <br />
+    <br />
+  </div>
+<input type="submit" value="Pošalji fajlove"/>
+</form>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ExceptionInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536121424527" remote="130450536120000000" Dst="2" />
+<file name="ExtensionNotLoadedException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536121245337" remote="130450536120000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536121315022" remote="130450536120000000" Dst="2" />
+<file name="InvalidFileFormatException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536121394662" remote="130450536120000000" Dst="2" />
+<file name="OutOfBoundsException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536121285157" remote="130450536120000000" Dst="2" />
+<file name="OutOfRangeException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536121354842" remote="130450536120000000" Dst="2" />
+<file name="RuntimeException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536121175652" remote="130450536120000000" Dst="2" />
+<file name="UnexpectedValueException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536121135832" remote="130450536120000000" Dst="2" />
+<file name="UnsupportedMethodCallException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536121215472" remote="130450536120000000" Dst="2" />
+<file name="ExceptionInterface.php" server="192.168.1.27/delovodnik/" local="130450536121424527" remote="130461765000000000" Dst="2" />
+<file name="ExtensionNotLoadedException.php" server="192.168.1.27/delovodnik/" local="130450536121245337" remote="130461765000000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="192.168.1.27/delovodnik/" local="130450536121315022" remote="130461765000000000" Dst="2" />
+<file name="InvalidFileFormatException.php" server="192.168.1.27/delovodnik/" local="130450536121394662" remote="130461765000000000" Dst="2" />
+<file name="OutOfBoundsException.php" server="192.168.1.27/delovodnik/" local="130450536121285157" remote="130461765000000000" Dst="2" />
+<file name="OutOfRangeException.php" server="192.168.1.27/delovodnik/" local="130450536121354842" remote="130461765000000000" Dst="2" />
+<file name="RuntimeException.php" server="192.168.1.27/delovodnik/" local="130450536121175652" remote="130461765000000000" Dst="2" />
+<file name="UnexpectedValueException.php" server="192.168.1.27/delovodnik/" local="130450536121135832" remote="130461765000000000" Dst="2" />
+<file name="UnsupportedMethodCallException.php" server="192.168.1.27/delovodnik/" local="130450536121215472" remote="130461765000000000" Dst="2" />
+</dwsync>

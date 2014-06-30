@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ArrayInput.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535927272162" remote="130450535920000000" Dst="2" />
+<file name="BaseInputFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535927431442" remote="130450535920000000" Dst="2" />
+<file name="CollectionInputFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535928337347" remote="130450535920000000" Dst="2" />
+<file name="composer.json" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535928217887" remote="130450535920000000" Dst="2" />
+<file name="EmptyContextInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535928377167" remote="130450535920000000" Dst="2" />
+<file name="Factory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535927630542" remote="130450535920000000" Dst="2" />
+<file name="FileInput.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535927311982" remote="130450535920000000" Dst="2" />
+<file name="Input.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535927351802" remote="130450535920000000" Dst="2" />
+<file name="InputFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535927521037" remote="130450535920000000" Dst="2" />
+<file name="InputFilterAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535927590722" remote="130450535920000000" Dst="2" />
+<file name="InputFilterAwareTrait.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535928456807" remote="130450535920000000" Dst="2" />
+<file name="InputFilterInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535928416987" remote="130450535920000000" Dst="2" />
+<file name="InputFilterPluginManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535928257707" remote="130450535920000000" Dst="2" />
+<file name="InputFilterProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535927481217" remote="130450535920000000" Dst="2" />
+<file name="InputInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535928297527" remote="130450535920000000" Dst="2" />
+<file name="InputProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535927192522" remote="130450535920000000" Dst="2" />
+<file name="README.md" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535927560857" remote="130450535920000000" Dst="2" />
+<file name="ReplaceableInputInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535927391622" remote="130450535920000000" Dst="2" />
+<file name="UnknownInputsCapableInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535927232342" remote="130450535920000000" Dst="2" />
+<file name="ArrayInput.php" server="192.168.1.27/delovodnik/" local="130450535927272162" remote="130461764400000000" Dst="2" />
+<file name="BaseInputFilter.php" server="192.168.1.27/delovodnik/" local="130450535927431442" remote="130461764400000000" Dst="2" />
+<file name="CollectionInputFilter.php" server="192.168.1.27/delovodnik/" local="130450535928337347" remote="130461764400000000" Dst="2" />
+<file name="composer.json" server="192.168.1.27/delovodnik/" local="130450535928217887" remote="130461764400000000" Dst="2" />
+<file name="EmptyContextInterface.php" server="192.168.1.27/delovodnik/" local="130450535928377167" remote="130461764400000000" Dst="2" />
+<file name="Factory.php" server="192.168.1.27/delovodnik/" local="130450535927630542" remote="130461764400000000" Dst="2" />
+<file name="FileInput.php" server="192.168.1.27/delovodnik/" local="130450535927311982" remote="130461764400000000" Dst="2" />
+<file name="Input.php" server="192.168.1.27/delovodnik/" local="130450535927351802" remote="130461764400000000" Dst="2" />
+<file name="InputFilter.php" server="192.168.1.27/delovodnik/" local="130450535927521037" remote="130461764400000000" Dst="2" />
+<file name="InputFilterAwareInterface.php" server="192.168.1.27/delovodnik/" local="130450535927590722" remote="130461764400000000" Dst="2" />
+<file name="InputFilterAwareTrait.php" server="192.168.1.27/delovodnik/" local="130450535928456807" remote="130461764400000000" Dst="2" />
+<file name="InputFilterInterface.php" server="192.168.1.27/delovodnik/" local="130450535928416987" remote="130461764400000000" Dst="2" />
+<file name="InputFilterPluginManager.php" server="192.168.1.27/delovodnik/" local="130450535928257707" remote="130461764400000000" Dst="2" />
+<file name="InputFilterProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450535927481217" remote="130461764400000000" Dst="2" />
+<file name="InputInterface.php" server="192.168.1.27/delovodnik/" local="130450535928297527" remote="130461764400000000" Dst="2" />
+<file name="InputProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450535927192522" remote="130461764400000000" Dst="2" />
+<file name="README.md" server="192.168.1.27/delovodnik/" local="130450535927560857" remote="130461764400000000" Dst="2" />
+<file name="ReplaceableInputInterface.php" server="192.168.1.27/delovodnik/" local="130450535927391622" remote="130461764400000000" Dst="2" />
+<file name="UnknownInputsCapableInterface.php" server="192.168.1.27/delovodnik/" local="130450535927232342" remote="130461764400000000" Dst="2" />
+</dwsync>

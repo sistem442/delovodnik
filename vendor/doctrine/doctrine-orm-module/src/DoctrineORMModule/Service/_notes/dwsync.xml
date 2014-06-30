@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConfigurationFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602018469" remote="130458402600000000" Dst="2" />
+<file name="DBALConfigurationFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602028470" remote="130458402600000000" Dst="2" />
+<file name="DBALConnectionFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602028470" remote="130458402600000000" Dst="2" />
+<file name="DoctrineObjectHydratorFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602038471" remote="130458402600000000" Dst="2" />
+<file name="EntityManagerAliasCompatFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602038471" remote="130458402600000000" Dst="2" />
+<file name="EntityManagerFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602048472" remote="130458402600000000" Dst="2" />
+<file name="EntityResolverFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602048472" remote="130458402600000000" Dst="2" />
+<file name="FormAnnotationBuilderFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602058473" remote="130458402600000000" Dst="2" />
+<file name="MappingCollectorFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602058473" remote="130458402600000000" Dst="2" />
+<file name="MigrationsCommandFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602068474" remote="130458402600000000" Dst="2" />
+<file name="MigrationsConfigurationFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602068474" remote="130458402600000000" Dst="2" />
+<file name="ObjectMultiCheckboxFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602068474" remote="130458402600000000" Dst="2" />
+<file name="ObjectRadioFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602078475" remote="130458402600000000" Dst="2" />
+<file name="ObjectSelectFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602088476" remote="130458402600000000" Dst="2" />
+<file name="SQLLoggerCollectorFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402602088476" remote="130458402600000000" Dst="2" />
+</dwsync>

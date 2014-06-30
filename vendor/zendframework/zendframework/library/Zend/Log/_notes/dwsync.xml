@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="composer.json" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535979028207" remote="130450535970000000" Dst="2" />
+<file name="Logger.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535975115892" remote="130450535970000000" Dst="2" />
+<file name="LoggerAbstractServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535973483272" remote="130450535970000000" Dst="2" />
+<file name="LoggerAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535975175622" remote="130450535970000000" Dst="2" />
+<file name="LoggerAwareTrait.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535975255262" remote="130450535970000000" Dst="2" />
+<file name="LoggerInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535975215442" remote="130450535970000000" Dst="2" />
+<file name="LoggerServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535977753967" remote="130450535970000000" Dst="2" />
+<file name="ProcessorPluginManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535978988387" remote="130450535970000000" Dst="2" />
+<file name="README.md" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535975295082" remote="130450535970000000" Dst="2" />
+<file name="WriterPluginManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535977325902" remote="130450535970000000" Dst="2" />
+<file name="composer.json" server="192.168.1.27/delovodnik/" local="130450535979028207" remote="130461764400000000" Dst="2" />
+<file name="Logger.php" server="192.168.1.27/delovodnik/" local="130450535975115892" remote="130461764400000000" Dst="2" />
+<file name="LoggerAbstractServiceFactory.php" server="192.168.1.27/delovodnik/" local="130450535973483272" remote="130461764400000000" Dst="2" />
+<file name="LoggerAwareInterface.php" server="192.168.1.27/delovodnik/" local="130450535975175622" remote="130461764400000000" Dst="2" />
+<file name="LoggerAwareTrait.php" server="192.168.1.27/delovodnik/" local="130450535975255262" remote="130461764400000000" Dst="2" />
+<file name="LoggerInterface.php" server="192.168.1.27/delovodnik/" local="130450535975215442" remote="130461764400000000" Dst="2" />
+<file name="LoggerServiceFactory.php" server="192.168.1.27/delovodnik/" local="130450535977753967" remote="130461764400000000" Dst="2" />
+<file name="ProcessorPluginManager.php" server="192.168.1.27/delovodnik/" local="130450535978988387" remote="130461764400000000" Dst="2" />
+<file name="README.md" server="192.168.1.27/delovodnik/" local="130450535975295082" remote="130461764400000000" Dst="2" />
+<file name="WriterPluginManager.php" server="192.168.1.27/delovodnik/" local="130450535977325902" remote="130461764400000000" Dst="2" />
+</dwsync>

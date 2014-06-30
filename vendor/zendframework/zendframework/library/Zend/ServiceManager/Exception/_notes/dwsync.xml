@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CircularDependencyFoundException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535878960547" remote="130450535870000000" Dst="2" />
+<file name="CircularReferenceException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535879040187" remote="130450535870000000" Dst="2" />
+<file name="ExceptionInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535879000367" remote="130450535870000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535879139737" remote="130450535870000000" Dst="2" />
+<file name="InvalidServiceNameException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535879109872" remote="130450535870000000" Dst="2" />
+<file name="RuntimeException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535879070052" remote="130450535870000000" Dst="2" />
+<file name="ServiceNotCreatedException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535879179557" remote="130450535870000000" Dst="2" />
+<file name="ServiceNotFoundException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535878920727" remote="130450535870000000" Dst="2" />
+<file name="CircularDependencyFoundException.php" server="192.168.1.27/delovodnik/" local="130450535878960547" remote="130461765000000000" Dst="2" />
+<file name="CircularReferenceException.php" server="192.168.1.27/delovodnik/" local="130450535879040187" remote="130461765000000000" Dst="2" />
+<file name="ExceptionInterface.php" server="192.168.1.27/delovodnik/" local="130450535879000367" remote="130461765000000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="192.168.1.27/delovodnik/" local="130450535879139737" remote="130461765000000000" Dst="2" />
+<file name="InvalidServiceNameException.php" server="192.168.1.27/delovodnik/" local="130450535879109872" remote="130461765000000000" Dst="2" />
+<file name="RuntimeException.php" server="192.168.1.27/delovodnik/" local="130450535879070052" remote="130461765000000000" Dst="2" />
+<file name="ServiceNotCreatedException.php" server="192.168.1.27/delovodnik/" local="130450535879179557" remote="130461765000000000" Dst="2" />
+<file name="ServiceNotFoundException.php" server="192.168.1.27/delovodnik/" local="130450535878920727" remote="130461765000000000" Dst="2" />
+</dwsync>

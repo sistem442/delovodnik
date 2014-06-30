@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCollectionPersister.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597348002" remote="130458402590000000" Dst="2" />
+<file name="AbstractEntityInheritancePersister.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597348002" remote="130458402590000000" Dst="2" />
+<file name="BasicEntityPersister.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597358003" remote="130458402590000000" Dst="2" />
+<file name="ElementCollectionPersister.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597368004" remote="130458402590000000" Dst="2" />
+<file name="JoinedSubclassPersister.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597368004" remote="130458402590000000" Dst="2" />
+<file name="ManyToManyPersister.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597378005" remote="130458402590000000" Dst="2" />
+<file name="OneToManyPersister.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597378005" remote="130458402590000000" Dst="2" />
+<file name="PersisterException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597388006" remote="130458402590000000" Dst="2" />
+<file name="SingleTablePersister.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597388006" remote="130458402590000000" Dst="2" />
+<file name="SqlExpressionVisitor.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597398007" remote="130458402590000000" Dst="2" />
+<file name="SqlValueVisitor.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597398007" remote="130458402590000000" Dst="2" />
+<file name="UnionSubclassPersister.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597408008" remote="130458402590000000" Dst="2" />
+</dwsync>

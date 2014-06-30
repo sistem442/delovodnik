@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Expr.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597888056" remote="130458402590000000" Dst="2" />
+<file name="FilterCollection.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597978065" remote="130458402590000000" Dst="2" />
+<file name="Lexer.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597988066" remote="130458402590000000" Dst="2" />
+<file name="Parameter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597988066" remote="130458402590000000" Dst="2" />
+<file name="ParameterTypeInferer.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597998067" remote="130458402590000000" Dst="2" />
+<file name="Parser.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598008068" remote="130458402590000000" Dst="2" />
+<file name="ParserResult.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598008068" remote="130458402590000000" Dst="2" />
+<file name="Printer.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598018069" remote="130458402590000000" Dst="2" />
+<file name="QueryException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598018069" remote="130458402590000000" Dst="2" />
+<file name="QueryExpressionVisitor.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598028070" remote="130458402590000000" Dst="2" />
+<file name="ResultSetMapping.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598038071" remote="130458402590000000" Dst="2" />
+<file name="ResultSetMappingBuilder.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598038071" remote="130458402590000000" Dst="2" />
+<file name="SqlWalker.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598048072" remote="130458402590000000" Dst="2" />
+<file name="TreeWalker.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598058073" remote="130458402590000000" Dst="2" />
+<file name="TreeWalkerAdapter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598058073" remote="130458402590000000" Dst="2" />
+<file name="TreeWalkerChain.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598068074" remote="130458402590000000" Dst="2" />
+</dwsync>

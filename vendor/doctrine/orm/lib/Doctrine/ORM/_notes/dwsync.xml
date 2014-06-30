@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractQuery.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402596707938" remote="130458402590000000" Dst="2" />
+<file name="Configuration.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402596707938" remote="130458402590000000" Dst="2" />
+<file name="EntityManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402596737941" remote="130458402590000000" Dst="2" />
+<file name="EntityManagerInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402596737941" remote="130458402590000000" Dst="2" />
+<file name="EntityNotFoundException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402596747942" remote="130458402590000000" Dst="2" />
+<file name="EntityRepository.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402596747942" remote="130458402590000000" Dst="2" />
+<file name="Events.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402596797947" remote="130458402590000000" Dst="2" />
+<file name="NativeQuery.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597297997" remote="130458402590000000" Dst="2" />
+<file name="NonUniqueResultException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597307998" remote="130458402590000000" Dst="2" />
+<file name="NoResultException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597307998" remote="130458402590000000" Dst="2" />
+<file name="OptimisticLockException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597328000" remote="130458402590000000" Dst="2" />
+<file name="ORMException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597317999" remote="130458402590000000" Dst="2" />
+<file name="ORMInvalidArgumentException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597317999" remote="130458402590000000" Dst="2" />
+<file name="PersistentCollection.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597328000" remote="130458402590000000" Dst="2" />
+<file name="PessimisticLockException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597408008" remote="130458402590000000" Dst="2" />
+<file name="Query.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402597438011" remote="130458402590000000" Dst="2" />
+<file name="QueryBuilder.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598078075" remote="130458402590000000" Dst="2" />
+<file name="README.markdown" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598078075" remote="130458402590000000" Dst="2" />
+<file name="TransactionRequiredException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598538121" remote="130458402590000000" Dst="2" />
+<file name="UnexpectedResultException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598538121" remote="130458402590000000" Dst="2" />
+<file name="UnitOfWork.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598558123" remote="130458402590000000" Dst="2" />
+<file name="Version.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402598558123" remote="130458402590000000" Dst="2" />
+</dwsync>

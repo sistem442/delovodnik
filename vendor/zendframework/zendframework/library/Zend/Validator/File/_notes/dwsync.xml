@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Count.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844287282" remote="130450535840000000" Dst="2" />
+<file name="Crc32.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844705392" remote="130450535840000000" Dst="2" />
+<file name="ExcludeExtension.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844247462" remote="130450535840000000" Dst="2" />
+<file name="ExcludeMimeType.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844605842" remote="130450535840000000" Dst="2" />
+<file name="Exists.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844984132" remote="130450535840000000" Dst="2" />
+<file name="Extension.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844765122" remote="130450535840000000" Dst="2" />
+<file name="FilesSize.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844446562" remote="130450535840000000" Dst="2" />
+<file name="Hash.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535843958767" remote="130450535840000000" Dst="2" />
+<file name="ImageSize.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844824852" remote="130450535840000000" Dst="2" />
+<file name="IsCompressed.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844556067" remote="130450535840000000" Dst="2" />
+<file name="IsImage.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844934357" remote="130450535840000000" Dst="2" />
+<file name="Md5.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844167822" remote="130450535840000000" Dst="2" />
+<file name="MimeType.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844327102" remote="130450535840000000" Dst="2" />
+<file name="NotExists.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844496337" remote="130450535840000000" Dst="2" />
+<file name="Sha1.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844406742" remote="130450535840000000" Dst="2" />
+<file name="Size.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844655617" remote="130450535840000000" Dst="2" />
+<file name="Upload.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844128002" remote="130450535840000000" Dst="2" />
+<file name="UploadFile.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535844088182" remote="130450535840000000" Dst="2" />
+<file name="WordCount.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535843998587" remote="130450535840000000" Dst="2" />
+<file name="Count.php" server="192.168.1.27/delovodnik/" local="130450535844287282" remote="130461765000000000" Dst="2" />
+<file name="Crc32.php" server="192.168.1.27/delovodnik/" local="130450535844705392" remote="130461765000000000" Dst="2" />
+<file name="ExcludeExtension.php" server="192.168.1.27/delovodnik/" local="130450535844247462" remote="130461765000000000" Dst="2" />
+<file name="ExcludeMimeType.php" server="192.168.1.27/delovodnik/" local="130450535844605842" remote="130461765000000000" Dst="2" />
+<file name="Exists.php" server="192.168.1.27/delovodnik/" local="130450535844984132" remote="130461765000000000" Dst="2" />
+<file name="Extension.php" server="192.168.1.27/delovodnik/" local="130450535844765122" remote="130461765000000000" Dst="2" />
+<file name="FilesSize.php" server="192.168.1.27/delovodnik/" local="130450535844446562" remote="130461765000000000" Dst="2" />
+<file name="Hash.php" server="192.168.1.27/delovodnik/" local="130450535843958767" remote="130461765000000000" Dst="2" />
+<file name="ImageSize.php" server="192.168.1.27/delovodnik/" local="130450535844824852" remote="130461765000000000" Dst="2" />
+<file name="IsCompressed.php" server="192.168.1.27/delovodnik/" local="130450535844556067" remote="130461765000000000" Dst="2" />
+<file name="IsImage.php" server="192.168.1.27/delovodnik/" local="130450535844934357" remote="130461765000000000" Dst="2" />
+<file name="Md5.php" server="192.168.1.27/delovodnik/" local="130450535844167822" remote="130461765000000000" Dst="2" />
+<file name="MimeType.php" server="192.168.1.27/delovodnik/" local="130450535844327102" remote="130461765000000000" Dst="2" />
+<file name="NotExists.php" server="192.168.1.27/delovodnik/" local="130450535844496337" remote="130461765000000000" Dst="2" />
+<file name="Sha1.php" server="192.168.1.27/delovodnik/" local="130450535844406742" remote="130461765000000000" Dst="2" />
+<file name="Size.php" server="192.168.1.27/delovodnik/" local="130450535844655617" remote="130461765000000000" Dst="2" />
+<file name="Upload.php" server="192.168.1.27/delovodnik/" local="130450535844128002" remote="130461765000000000" Dst="2" />
+<file name="UploadFile.php" server="192.168.1.27/delovodnik/" local="130450535844088182" remote="130461765000000000" Dst="2" />
+<file name="WordCount.php" server="192.168.1.27/delovodnik/" local="130450535843998587" remote="130461765000000000" Dst="2" />
+</dwsync>

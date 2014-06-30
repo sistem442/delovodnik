@@ -1,0 +1,156 @@
+<?php
+
+namespace Delovodnik\Controller;
+
+use Zend\Mvc\Controller\AbstractActionController;
+use Zend\View\Model\ViewModel;
+
+use Zend\Db\TableGateway\TableGateway;
+use Zend\Db\Sql\Select; 
+
+
+use Delovodnik\Form\DelovodnikForm;
+use Delovodnik\Form\DelovodnikFilter;
+use Delovodnik\Form\SearchFilter;
+use Delovodnik\Form\SearchForm;
+use Delovodnik\Form\SearchDateForm;
+use Delovodnik\Form\SearchDateFilter;
+
+use Zend\Form\FormInterface;
+
+use Zend\Http\Headers;
+
+use Zend\Authentication\AuthenticationService;
+use Zend\Authentication\Adapter\DbTable as DbTableAuthAdapter;
+
+use Zend\Db\Sql\Sql;
+use Zend\Db\Adapter\Adapter;
+use Zend\Db\Sql\Expression;
+
+class DelovodnikController extends AbstractActionController
+{
+	private $dataTable;
+	
+	//full search
+	public function searchAction()
+	{
+		$form = new SearchForm();
+		return new ViewModel(array('form' => $form));
+	}
+
+	//date search temporary
+	public function searchDateAction()
+	{
+		$form = new SearchDateForm();
+		
+		return new ViewModel(array('form' => $form));
+	}
+
+	public function SearchResultAction(){
+		$request = $this->getRequest();
+		if ($request->isPost()) {
+			$form = $this->getServiceLocator()->get('SearchDateForm');
+			$form->setInputFilter(new SearchDateFilter());
+			$form->setData($request->getPost());
+			if ($form->isValid()) {
+				$data = $request->getPost()->toArray();
+				$adapter = $this->getServiceLocator()->get('Zend\Db\Adapter\Adapter'); 
+				//******************EDIT
+
+
+
+
+
+
+				//*********************end of edit
+						$sql = "SELECT * 
+						FROM data 
+						WHERE date_of_entry <= '".$data['search_date']."' 
+						ORDER BY date_of_entry DESC
+						LIMIT 0,20;"; 
+				$statement = $adapter->query($sql); 
+				$results= $statement->execute();
+				$returnArray = array();
+				foreach ($results as $result) {
+					$returnArray[] = $result;
+				}
+				return new ViewModel(array('results' => $returnArray));
+										}
+			else {
+				echo 'form is not valid';
+				die;
+			}
+		}
+	}
+
+	// R -retrieve 	CRUD
+	public function indexAction()
+	{
+		return new ViewModel(array('rowset' => $this->getDataTable()->select()));
+	}
+	
+	// C -Create
+	public function createAction()
+	{
+		$form = new DelovodnikForm();
+		$request = $this->getRequest();
+        if ($request->isPost()) {
+			$form->setInputFilter(new DelovodnikFilter());
+			$form->setData($request->getPost());
+			 if ($form->isValid()) {
+				$data = $form->getData();
+				unset($data['submit']);	
+				$this->getDataTable()->insert($data);
+				
+				//get id from data table, you are using it in create-success.phtml
+				$adapter = $this->getServiceLocator()->get('Zend\Db\Adapter\Adapter');
+				$sql = "SELECT max(id) as maxid from data"; 
+				$statement = $adapter->query($sql); 
+				$results= $statement->execute();
+				$row = $results->current();
+				$new_id = $row['maxid'];
+				$data['id']=$new_id;
+				$view = new ViewModel(array('data'=>$data));
+    			$view->setTemplate('delovodnik/delovodnik/create-success.phtml');
+			    return $view;
+			}
+		}		
+		return new ViewModel(array('form' => $form));
+	}
+	
+	// U -Update
+	public function updateAction()
+	{
+		$id = $this->params()->fromRoute('id');
+		if (!$id) return $this->redirect()->toRoute('delovodnik/default', array('controller' => 'Delovodnik', 'action' => 'index'));
+		$form = new DelovodnikForm();
+		$request = $this->getRequest();
+        if ($request->isPost()) {
+			$form->setInputFilter(new DelovodnikFilter());
+			$form->setData($request->getPost());
+			 if ($form->isValid()) {
+				$data = $form->getData();
+				unset($data['submit']);
+				$this->getDataTable()->update($data, array('id' => $id));
+				return $this->redirect()->toRoute('delovodnik/default', array('controller' => 'Delovodnik', 'action' => 'index'));													
+			}			 
+		}
+		else {
+			$form->setData($this->getDataTable()->select(array('id' => $id))->current());			
+		}
+		return new ViewModel(array('form' => $form, 'id' => $id));		
+	}
+	
+		
+	public function getDataTable()
+	{
+		//If $this->usersTable is no already iniciated, inciate new $this->usersTable
+		if (!$this->dataTable) {
+			$this->dataTable = new TableGateway(
+				'data', 
+				$this->getServiceLocator()->get('Zend\Db\Adapter\Adapter')
+			);
+		}
+		return $this->dataTable;
+	}
+}

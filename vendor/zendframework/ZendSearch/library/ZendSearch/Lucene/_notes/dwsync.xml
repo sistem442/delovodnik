@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractFSM.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536122111422" remote="130450536120000000" Dst="2" />
+<file name="AbstractPriorityQueue.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536122161197" remote="130450536120000000" Dst="2" />
+<file name="Document.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536122290612" remote="130450536120000000" Dst="2" />
+<file name="FSMAction.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536130423847" remote="130450536130000000" Dst="2" />
+<file name="Index.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536121026327" remote="130450536120000000" Dst="2" />
+<file name="LockManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536130463667" remote="130450536130000000" Dst="2" />
+<file name="Lucene.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536122210972" remote="130450536120000000" Dst="2" />
+<file name="MultiSearcher.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536121086057" remote="130450536120000000" Dst="2" />
+<file name="SearchIndexInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536122320477" remote="130450536120000000" Dst="2" />
+<file name="TermStreamsPriorityQueue.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536122250792" remote="130450536120000000" Dst="2" />
+<file name="AbstractFSM.php" server="192.168.1.27/delovodnik/" local="130450536122111422" remote="130461765000000000" Dst="2" />
+<file name="AbstractPriorityQueue.php" server="192.168.1.27/delovodnik/" local="130450536122161197" remote="130461765000000000" Dst="2" />
+<file name="Document.php" server="192.168.1.27/delovodnik/" local="130450536122290612" remote="130461765000000000" Dst="2" />
+<file name="FSMAction.php" server="192.168.1.27/delovodnik/" local="130450536130423847" remote="130461765000000000" Dst="2" />
+<file name="Index.php" server="192.168.1.27/delovodnik/" local="130450536121026327" remote="130461765000000000" Dst="2" />
+<file name="LockManager.php" server="192.168.1.27/delovodnik/" local="130450536130463667" remote="130461765000000000" Dst="2" />
+<file name="Lucene.php" server="192.168.1.27/delovodnik/" local="130450536122210972" remote="130461765000000000" Dst="2" />
+<file name="MultiSearcher.php" server="192.168.1.27/delovodnik/" local="130450536121086057" remote="130461765000000000" Dst="2" />
+<file name="SearchIndexInterface.php" server="192.168.1.27/delovodnik/" local="130450536122320477" remote="130461765000000000" Dst="2" />
+<file name="TermStreamsPriorityQueue.php" server="192.168.1.27/delovodnik/" local="130450536122250792" remote="130461765000000000" Dst="2" />
+</dwsync>

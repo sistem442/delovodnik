@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCompressionAlgorithm.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535855506567" remote="130450535850000000" Dst="2" />
+<file name="Bz2.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535855546387" remote="130450535850000000" Dst="2" />
+<file name="CompressionAlgorithmInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535855397062" remote="130450535850000000" Dst="2" />
+<file name="Gz.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535855586207" remote="130450535850000000" Dst="2" />
+<file name="Lzf.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535855466747" remote="130450535850000000" Dst="2" />
+<file name="Rar.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535855675802" remote="130450535850000000" Dst="2" />
+<file name="Snappy.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535855426927" remote="130450535850000000" Dst="2" />
+<file name="Tar.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535855715622" remote="130450535850000000" Dst="2" />
+<file name="Zip.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535855626027" remote="130450535850000000" Dst="2" />
+<file name="AbstractCompressionAlgorithm.php" server="192.168.1.27/delovodnik/" local="130450535855506567" remote="130461764400000000" Dst="2" />
+<file name="Bz2.php" server="192.168.1.27/delovodnik/" local="130450535855546387" remote="130461764400000000" Dst="2" />
+<file name="CompressionAlgorithmInterface.php" server="192.168.1.27/delovodnik/" local="130450535855397062" remote="130461764400000000" Dst="2" />
+<file name="Gz.php" server="192.168.1.27/delovodnik/" local="130450535855586207" remote="130461764400000000" Dst="2" />
+<file name="Lzf.php" server="192.168.1.27/delovodnik/" local="130450535855466747" remote="130461764400000000" Dst="2" />
+<file name="Rar.php" server="192.168.1.27/delovodnik/" local="130450535855675802" remote="130461764400000000" Dst="2" />
+<file name="Snappy.php" server="192.168.1.27/delovodnik/" local="130450535855426927" remote="130461764400000000" Dst="2" />
+<file name="Tar.php" server="192.168.1.27/delovodnik/" local="130450535855715622" remote="130461764400000000" Dst="2" />
+<file name="Zip.php" server="192.168.1.27/delovodnik/" local="130450535855626027" remote="130461764400000000" Dst="2" />
+</dwsync>

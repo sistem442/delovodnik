@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536087497887" remote="130450536080000000" Dst="2" />
+<file name="AutoloaderListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536086970272" remote="130450536080000000" Dst="2" />
+<file name="ConfigListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536087547662" remote="130450536080000000" Dst="2" />
+<file name="ConfigMergerInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536087139507" remote="130450536080000000" Dst="2" />
+<file name="DefaultListenerAggregate.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536086810992" remote="130450536080000000" Dst="2" />
+<file name="InitTrigger.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536087059867" remote="130450536080000000" Dst="2" />
+<file name="ListenerOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536086850812" remote="130450536080000000" Dst="2" />
+<file name="LocatorRegistrationListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536086930452" remote="130450536080000000" Dst="2" />
+<file name="ModuleDependencyCheckerListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536086731352" remote="130450536080000000" Dst="2" />
+<file name="ModuleLoaderListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536086890632" remote="130450536080000000" Dst="2" />
+<file name="ModuleResolverListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536087587482" remote="130450536080000000" Dst="2" />
+<file name="OnBootstrapListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536086771172" remote="130450536080000000" Dst="2" />
+<file name="ServiceListener.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536087020047" remote="130450536080000000" Dst="2" />
+<file name="ServiceListenerInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536087099687" remote="130450536080000000" Dst="2" />
+<file name="AbstractListener.php" server="192.168.1.27/delovodnik/" local="130450536087497887" remote="130461765000000000" Dst="2" />
+<file name="AutoloaderListener.php" server="192.168.1.27/delovodnik/" local="130450536086970272" remote="130461765000000000" Dst="2" />
+<file name="ConfigListener.php" server="192.168.1.27/delovodnik/" local="130450536087547662" remote="130461765000000000" Dst="2" />
+<file name="ConfigMergerInterface.php" server="192.168.1.27/delovodnik/" local="130450536087139507" remote="130461765000000000" Dst="2" />
+<file name="DefaultListenerAggregate.php" server="192.168.1.27/delovodnik/" local="130450536086810992" remote="130461765000000000" Dst="2" />
+<file name="InitTrigger.php" server="192.168.1.27/delovodnik/" local="130450536087059867" remote="130461765000000000" Dst="2" />
+<file name="ListenerOptions.php" server="192.168.1.27/delovodnik/" local="130450536086850812" remote="130461765000000000" Dst="2" />
+<file name="LocatorRegistrationListener.php" server="192.168.1.27/delovodnik/" local="130450536086930452" remote="130461765000000000" Dst="2" />
+<file name="ModuleDependencyCheckerListener.php" server="192.168.1.27/delovodnik/" local="130450536086731352" remote="130461765000000000" Dst="2" />
+<file name="ModuleLoaderListener.php" server="192.168.1.27/delovodnik/" local="130450536086890632" remote="130461765000000000" Dst="2" />
+<file name="ModuleResolverListener.php" server="192.168.1.27/delovodnik/" local="130450536087587482" remote="130461765000000000" Dst="2" />
+<file name="OnBootstrapListener.php" server="192.168.1.27/delovodnik/" local="130450536086771172" remote="130461765000000000" Dst="2" />
+<file name="ServiceListener.php" server="192.168.1.27/delovodnik/" local="130450536087020047" remote="130461765000000000" Dst="2" />
+<file name="ServiceListenerInterface.php" server="192.168.1.27/delovodnik/" local="130450536087099687" remote="130461765000000000" Dst="2" />
+</dwsync>

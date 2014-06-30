@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="BadMethodCallException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535937874237" remote="130450535930000000" Dst="2" />
+<file name="DomainException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535937695047" remote="130450535930000000" Dst="2" />
+<file name="ExceptionInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535937834417" remote="130450535930000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535937764732" remote="130450535930000000" Dst="2" />
+<file name="InvalidPathException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535937904102" remote="130450535930000000" Dst="2" />
+<file name="MissingResourceNamespaceException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535937794597" remote="130450535930000000" Dst="2" />
+<file name="PluginLoaderException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535937655227" remote="130450535930000000" Dst="2" />
+<file name="RuntimeException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535937943922" remote="130450535930000000" Dst="2" />
+<file name="SecurityException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535937724912" remote="130450535930000000" Dst="2" />
+<file name="BadMethodCallException.php" server="192.168.1.27/delovodnik/" local="130450535937874237" remote="130461764400000000" Dst="2" />
+<file name="DomainException.php" server="192.168.1.27/delovodnik/" local="130450535937695047" remote="130461764400000000" Dst="2" />
+<file name="ExceptionInterface.php" server="192.168.1.27/delovodnik/" local="130450535937834417" remote="130461764400000000" Dst="2" />
+<file name="InvalidArgumentException.php" server="192.168.1.27/delovodnik/" local="130450535937764732" remote="130461764400000000" Dst="2" />
+<file name="InvalidPathException.php" server="192.168.1.27/delovodnik/" local="130450535937904102" remote="130461764400000000" Dst="2" />
+<file name="MissingResourceNamespaceException.php" server="192.168.1.27/delovodnik/" local="130450535937794597" remote="130461764400000000" Dst="2" />
+<file name="PluginLoaderException.php" server="192.168.1.27/delovodnik/" local="130450535937655227" remote="130461764400000000" Dst="2" />
+<file name="RuntimeException.php" server="192.168.1.27/delovodnik/" local="130450535937943922" remote="130461764400000000" Dst="2" />
+<file name="SecurityException.php" server="192.168.1.27/delovodnik/" local="130450535937724912" remote="130461764400000000" Dst="2" />
+</dwsync>

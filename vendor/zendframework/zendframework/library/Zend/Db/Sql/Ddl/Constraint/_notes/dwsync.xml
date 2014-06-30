@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractConstraint.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536002382637" remote="130450536000000000" Dst="2" />
+<file name="Check.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536002213402" remote="130450536000000000" Dst="2" />
+<file name="ConstraintInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536002342817" remote="130450536000000000" Dst="2" />
+<file name="ForeignKey.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536002293042" remote="130450536000000000" Dst="2" />
+<file name="PrimaryKey.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536002173582" remote="130450536000000000" Dst="2" />
+<file name="UniqueKey.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450536002253222" remote="130450536000000000" Dst="2" />
+<file name="AbstractConstraint.php" server="192.168.1.27/delovodnik/" local="130450536002382637" remote="130461764400000000" Dst="2" />
+<file name="Check.php" server="192.168.1.27/delovodnik/" local="130450536002213402" remote="130461764400000000" Dst="2" />
+<file name="ConstraintInterface.php" server="192.168.1.27/delovodnik/" local="130450536002342817" remote="130461764400000000" Dst="2" />
+<file name="ForeignKey.php" server="192.168.1.27/delovodnik/" local="130450536002293042" remote="130461764400000000" Dst="2" />
+<file name="PrimaryKey.php" server="192.168.1.27/delovodnik/" local="130450536002173582" remote="130461764400000000" Dst="2" />
+<file name="UniqueKey.php" server="192.168.1.27/delovodnik/" local="130450536002253222" remote="130461764400000000" Dst="2" />
+</dwsync>

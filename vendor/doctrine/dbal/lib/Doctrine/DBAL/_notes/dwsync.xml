@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Configuration.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592127480" remote="130458402590000000" Dst="2" />
+<file name="Connection.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592127480" remote="130458402590000000" Dst="2" />
+<file name="ConnectionException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592137481" remote="130458402590000000" Dst="2" />
+<file name="DBALException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592157483" remote="130458402590000000" Dst="2" />
+<file name="Driver.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592157483" remote="130458402590000000" Dst="2" />
+<file name="DriverManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592397507" remote="130458402590000000" Dst="2" />
+<file name="Events.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592487516" remote="130458402590000000" Dst="2" />
+<file name="LockMode.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592507518" remote="130458402590000000" Dst="2" />
+<file name="README.markdown" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592737541" remote="130458402590000000" Dst="2" />
+<file name="SQLParserUtils.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592737541" remote="130458402590000000" Dst="2" />
+<file name="SQLParserUtilsException.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592747542" remote="130458402590000000" Dst="2" />
+<file name="Statement.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402593037571" remote="130458402590000000" Dst="2" />
+<file name="Version.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402593227590" remote="130458402590000000" Dst="2" />
+</dwsync>

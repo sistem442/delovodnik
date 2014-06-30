@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AdapterPluginManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535910269022" remote="130450535910000000" Dst="2" />
+<file name="AvailableSpaceCapableInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911762272" remote="130450535910000000" Dst="2" />
+<file name="Capabilities.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911981282" remote="130450535910000000" Dst="2" />
+<file name="ClearByNamespaceInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911602992" remote="130450535910000000" Dst="2" />
+<file name="ClearByPrefixInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911642812" remote="130450535910000000" Dst="2" />
+<file name="ClearExpiredInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911951417" remote="130450535910000000" Dst="2" />
+<file name="Event.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911682632" remote="130450535910000000" Dst="2" />
+<file name="ExceptionEvent.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535910318797" remote="130450535910000000" Dst="2" />
+<file name="FlushableInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911802092" remote="130450535910000000" Dst="2" />
+<file name="IterableInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911523352" remote="130450535910000000" Dst="2" />
+<file name="IteratorInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911563172" remote="130450535910000000" Dst="2" />
+<file name="OptimizableInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535910358617" remote="130450535910000000" Dst="2" />
+<file name="PluginManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535912031057" remote="130450535910000000" Dst="2" />
+<file name="PostEvent.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911871777" remote="130450535910000000" Dst="2" />
+<file name="StorageInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911722452" remote="130450535910000000" Dst="2" />
+<file name="TaggableInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911831957" remote="130450535910000000" Dst="2" />
+<file name="TotalSpaceCapableInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535911911597" remote="130450535910000000" Dst="2" />
+</dwsync>

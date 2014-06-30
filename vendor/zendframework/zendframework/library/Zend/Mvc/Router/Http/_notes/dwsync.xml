@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Chain.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535867552117" remote="130450535860000000" Dst="2" />
+<file name="Hostname.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535867980182" remote="130450535860000000" Dst="2" />
+<file name="Literal.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535867940362" remote="130450535860000000" Dst="2" />
+<file name="Method.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535868119552" remote="130450535860000000" Dst="2" />
+<file name="Part.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535867771127" remote="130450535860000000" Dst="2" />
+<file name="Query.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535867731307" remote="130450535860000000" Dst="2" />
+<file name="Regex.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535867860722" remote="130450535860000000" Dst="2" />
+<file name="RouteInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535868079732" remote="130450535860000000" Dst="2" />
+<file name="RouteMatch.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535867900542" remote="130450535860000000" Dst="2" />
+<file name="Scheme.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535867651667" remote="130450535860000000" Dst="2" />
+<file name="Segment.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535867591937" remote="130450535860000000" Dst="2" />
+<file name="TranslatorAwareTreeRouteStack.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535868020002" remote="130450535860000000" Dst="2" />
+<file name="TreeRouteStack.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535867691487" remote="130450535860000000" Dst="2" />
+<file name="Wildcard.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535867820902" remote="130450535860000000" Dst="2" />
+<file name="Chain.php" server="192.168.1.27/delovodnik/" local="130450535867552117" remote="130461765000000000" Dst="2" />
+<file name="Hostname.php" server="192.168.1.27/delovodnik/" local="130450535867980182" remote="130461765000000000" Dst="2" />
+<file name="Literal.php" server="192.168.1.27/delovodnik/" local="130450535867940362" remote="130461765000000000" Dst="2" />
+<file name="Method.php" server="192.168.1.27/delovodnik/" local="130450535868119552" remote="130461765000000000" Dst="2" />
+<file name="Part.php" server="192.168.1.27/delovodnik/" local="130450535867771127" remote="130461765000000000" Dst="2" />
+<file name="Query.php" server="192.168.1.27/delovodnik/" local="130450535867731307" remote="130461765000000000" Dst="2" />
+<file name="Regex.php" server="192.168.1.27/delovodnik/" local="130450535867860722" remote="130461765000000000" Dst="2" />
+<file name="RouteInterface.php" server="192.168.1.27/delovodnik/" local="130450535868079732" remote="130461765000000000" Dst="2" />
+<file name="RouteMatch.php" server="192.168.1.27/delovodnik/" local="130450535867900542" remote="130461765000000000" Dst="2" />
+<file name="Scheme.php" server="192.168.1.27/delovodnik/" local="130450535867651667" remote="130461765000000000" Dst="2" />
+<file name="Segment.php" server="192.168.1.27/delovodnik/" local="130450535867591937" remote="130461765000000000" Dst="2" />
+<file name="TranslatorAwareTreeRouteStack.php" server="192.168.1.27/delovodnik/" local="130450535868020002" remote="130461765000000000" Dst="2" />
+<file name="TreeRouteStack.php" server="192.168.1.27/delovodnik/" local="130450535867691487" remote="130461765000000000" Dst="2" />
+<file name="Wildcard.php" server="192.168.1.27/delovodnik/" local="130450535867820902" remote="130461765000000000" Dst="2" />
+</dwsync>

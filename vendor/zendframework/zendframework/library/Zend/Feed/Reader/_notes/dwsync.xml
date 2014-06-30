@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractEntry.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535897138377" remote="130450535890000000" Dst="2" />
+<file name="AbstractFeed.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535899716722" remote="130450535890000000" Dst="2" />
+<file name="Collection.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535900592762" remote="130450535900000000" Dst="2" />
+<file name="ExtensionManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535899756542" remote="130450535890000000" Dst="2" />
+<file name="ExtensionManagerInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535900144787" remote="130450535900000000" Dst="2" />
+<file name="ExtensionPluginManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535899676902" remote="130450535890000000" Dst="2" />
+<file name="FeedSet.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535901468802" remote="130450535900000000" Dst="2" />
+<file name="Reader.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535897078647" remote="130450535890000000" Dst="2" />
+<file name="AbstractEntry.php" server="192.168.1.27/delovodnik/" local="130450535897138377" remote="130461764400000000" Dst="2" />
+<file name="AbstractFeed.php" server="192.168.1.27/delovodnik/" local="130450535899716722" remote="130461764400000000" Dst="2" />
+<file name="Collection.php" server="192.168.1.27/delovodnik/" local="130450535900592762" remote="130461764400000000" Dst="2" />
+<file name="ExtensionManager.php" server="192.168.1.27/delovodnik/" local="130450535899756542" remote="130461764400000000" Dst="2" />
+<file name="ExtensionManagerInterface.php" server="192.168.1.27/delovodnik/" local="130450535900144787" remote="130461764400000000" Dst="2" />
+<file name="ExtensionPluginManager.php" server="192.168.1.27/delovodnik/" local="130450535899676902" remote="130461764400000000" Dst="2" />
+<file name="FeedSet.php" server="192.168.1.27/delovodnik/" local="130450535901468802" remote="130461764400000000" Dst="2" />
+<file name="Reader.php" server="192.168.1.27/delovodnik/" local="130450535897078647" remote="130461764400000000" Dst="2" />
+</dwsync>

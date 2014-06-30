@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuthenticationIdentityProviderServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584936761" remote="130458402580000000" Dst="2" />
+<file name="AuthorizeAwareServiceInitializerTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584936761" remote="130458402580000000" Dst="2" />
+<file name="AuthorizeFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584956763" remote="130458402580000000" Dst="2" />
+<file name="AuthorizeTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584956763" remote="130458402580000000" Dst="2" />
+<file name="BaseProvidersServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584966764" remote="130458402580000000" Dst="2" />
+<file name="CacheFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584976765" remote="130458402580000000" Dst="2" />
+<file name="ConfigResourceProviderServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584986766" remote="130458402580000000" Dst="2" />
+<file name="ConfigRoleProviderServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584996767" remote="130458402580000000" Dst="2" />
+<file name="ConfigRuleProviderServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402585006768" remote="130458402580000000" Dst="2" />
+<file name="ConfigServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402585016769" remote="130458402580000000" Dst="2" />
+<file name="ControllerGuardServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402585026770" remote="130458402580000000" Dst="2" />
+<file name="IdentityProviderServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402585036771" remote="130458402580000000" Dst="2" />
+<file name="MockProvider.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402585046772" remote="130458402580000000" Dst="2" />
+<file name="ObjectRepositoryRoleProviderFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402585056773" remote="130458402580000000" Dst="2" />
+<file name="RoleCollectorServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402585066774" remote="130458402580000000" Dst="2" />
+<file name="RouteGuardServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402585076775" remote="130458402580000000" Dst="2" />
+<file name="UnauthorizedStrategyServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402585086776" remote="130458402580000000" Dst="2" />
+<file name="ZendDbRoleProviderServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402585096777" remote="130458402580000000" Dst="2" />
+<file name="ZfcUserZendDbIdentityProviderServiceFactoryTest.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402585106778" remote="130458402580000000" Dst="2" />
+</dwsync>

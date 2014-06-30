@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractObject.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883918137" remote="130450535880000000" Dst="2" />
+<file name="Codabar.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535884017687" remote="130450535880000000" Dst="2" />
+<file name="Code128.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535881857452" remote="130450535880000000" Dst="2" />
+<file name="Code25.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883460207" remote="130450535880000000" Dst="2" />
+<file name="Code25interleaved.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535881817632" remote="130450535880000000" Dst="2" />
+<file name="Code39.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883589622" remote="130450535880000000" Dst="2" />
+<file name="Ean13.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535881907227" remote="130450535880000000" Dst="2" />
+<file name="Ean2.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883549802" remote="130450535880000000" Dst="2" />
+<file name="Ean5.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883758857" remote="130450535880000000" Dst="2" />
+<file name="Ean8.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883977867" remote="130450535880000000" Dst="2" />
+<file name="Error.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883878317" remote="130450535880000000" Dst="2" />
+<file name="Identcode.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535884147102" remote="130450535880000000" Dst="2" />
+<file name="Itf14.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883629442" remote="130450535880000000" Dst="2" />
+<file name="Leitcode.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883798677" remote="130450535880000000" Dst="2" />
+<file name="ObjectInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883669262" remote="130450535880000000" Dst="2" />
+<file name="Planet.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883509982" remote="130450535880000000" Dst="2" />
+<file name="Postnet.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535884057507" remote="130450535880000000" Dst="2" />
+<file name="Royalmail.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883838497" remote="130450535880000000" Dst="2" />
+<file name="Upca.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535883719037" remote="130450535880000000" Dst="2" />
+<file name="Upce.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535884097327" remote="130450535880000000" Dst="2" />
+</dwsync>

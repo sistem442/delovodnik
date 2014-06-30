@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractResponseSender.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535873425567" remote="130450535870000000" Dst="2" />
+<file name="ConsoleResponseSender.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535873385747" remote="130450535870000000" Dst="2" />
+<file name="HttpResponseSender.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535873306107" remote="130450535870000000" Dst="2" />
+<file name="PhpEnvironmentResponseSender.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535873266287" remote="130450535870000000" Dst="2" />
+<file name="ResponseSenderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535873345927" remote="130450535870000000" Dst="2" />
+<file name="SendResponseEvent.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535873226467" remote="130450535870000000" Dst="2" />
+<file name="SimpleStreamResponseSender.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535873465387" remote="130450535870000000" Dst="2" />
+<file name="AbstractResponseSender.php" server="192.168.1.27/delovodnik/" local="130450535873425567" remote="130461765000000000" Dst="2" />
+<file name="ConsoleResponseSender.php" server="192.168.1.27/delovodnik/" local="130450535873385747" remote="130461765000000000" Dst="2" />
+<file name="HttpResponseSender.php" server="192.168.1.27/delovodnik/" local="130450535873306107" remote="130461765000000000" Dst="2" />
+<file name="PhpEnvironmentResponseSender.php" server="192.168.1.27/delovodnik/" local="130450535873266287" remote="130461765000000000" Dst="2" />
+<file name="ResponseSenderInterface.php" server="192.168.1.27/delovodnik/" local="130450535873345927" remote="130461765000000000" Dst="2" />
+<file name="SendResponseEvent.php" server="192.168.1.27/delovodnik/" local="130450535873226467" remote="130461765000000000" Dst="2" />
+<file name="SimpleStreamResponseSender.php" server="192.168.1.27/delovodnik/" local="130450535873465387" remote="130461765000000000" Dst="2" />
+</dwsync>

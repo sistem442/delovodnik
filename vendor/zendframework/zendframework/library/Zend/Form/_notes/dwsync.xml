@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="composer.json" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535926127337" remote="130450535920000000" Dst="2" />
+<file name="Element.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535923270252" remote="130450535920000000" Dst="2" />
+<file name="ElementAttributeRemovalInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535915425712" remote="130450535910000000" Dst="2" />
+<file name="ElementInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535926216932" remote="130450535920000000" Dst="2" />
+<file name="ElementPrepareAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535926167157" remote="130450535920000000" Dst="2" />
+<file name="Factory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535925520082" remote="130450535920000000" Dst="2" />
+<file name="Fieldset.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535923349892" remote="130450535920000000" Dst="2" />
+<file name="FieldsetInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535913892642" remote="130450535910000000" Dst="2" />
+<file name="FieldsetPrepareAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535913783137" remote="130450535910000000" Dst="2" />
+<file name="Form.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535925430487" remote="130450535920000000" Dst="2" />
+<file name="FormAbstractServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535923409622" remote="130450535920000000" Dst="2" />
+<file name="FormElementManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535926087517" remote="130450535920000000" Dst="2" />
+<file name="FormFactoryAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535923310072" remote="130450535920000000" Dst="2" />
+<file name="FormFactoryAwareTrait.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535913822957" remote="130450535910000000" Dst="2" />
+<file name="FormInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535915465532" remote="130450535910000000" Dst="2" />
+<file name="InputFilterProviderFieldset.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535923459397" remote="130450535920000000" Dst="2" />
+<file name="LabelAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535913852822" remote="130450535910000000" Dst="2" />
+<file name="LabelAwareTrait.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535923489262" remote="130450535920000000" Dst="2" />
+<file name="README.md" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535925480262" remote="130450535920000000" Dst="2" />
+<file name="composer.json" server="192.168.1.27/delovodnik/" local="130450535926127337" remote="130461764400000000" Dst="2" />
+<file name="Element.php" server="192.168.1.27/delovodnik/" local="130450535923270252" remote="130461764400000000" Dst="2" />
+<file name="ElementAttributeRemovalInterface.php" server="192.168.1.27/delovodnik/" local="130450535915425712" remote="130461764400000000" Dst="2" />
+<file name="ElementInterface.php" server="192.168.1.27/delovodnik/" local="130450535926216932" remote="130461764400000000" Dst="2" />
+<file name="ElementPrepareAwareInterface.php" server="192.168.1.27/delovodnik/" local="130450535926167157" remote="130461764400000000" Dst="2" />
+<file name="Factory.php" server="192.168.1.27/delovodnik/" local="130450535925520082" remote="130461764400000000" Dst="2" />
+<file name="Fieldset.php" server="192.168.1.27/delovodnik/" local="130450535923349892" remote="130461764400000000" Dst="2" />
+<file name="FieldsetInterface.php" server="192.168.1.27/delovodnik/" local="130450535913892642" remote="130461764400000000" Dst="2" />
+<file name="FieldsetPrepareAwareInterface.php" server="192.168.1.27/delovodnik/" local="130450535913783137" remote="130461764400000000" Dst="2" />
+<file name="Form.php" server="192.168.1.27/delovodnik/" local="130450535925430487" remote="130461764400000000" Dst="2" />
+<file name="FormAbstractServiceFactory.php" server="192.168.1.27/delovodnik/" local="130450535923409622" remote="130461764400000000" Dst="2" />
+<file name="FormElementManager.php" server="192.168.1.27/delovodnik/" local="130450535926087517" remote="130461764400000000" Dst="2" />
+<file name="FormFactoryAwareInterface.php" server="192.168.1.27/delovodnik/" local="130450535923310072" remote="130461764400000000" Dst="2" />
+<file name="FormFactoryAwareTrait.php" server="192.168.1.27/delovodnik/" local="130450535913822957" remote="130461764400000000" Dst="2" />
+<file name="FormInterface.php" server="192.168.1.27/delovodnik/" local="130450535915465532" remote="130461764400000000" Dst="2" />
+<file name="InputFilterProviderFieldset.php" server="192.168.1.27/delovodnik/" local="130450535923459397" remote="130461764400000000" Dst="2" />
+<file name="LabelAwareInterface.php" server="192.168.1.27/delovodnik/" local="130450535913852822" remote="130461764400000000" Dst="2" />
+<file name="LabelAwareTrait.php" server="192.168.1.27/delovodnik/" local="130450535923489262" remote="130461764400000000" Dst="2" />
+<file name="README.md" server="192.168.1.27/delovodnik/" local="130450535925480262" remote="130461764400000000" Dst="2" />
+</dwsync>

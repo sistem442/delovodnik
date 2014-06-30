@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AuthenticationIdentityProviderServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584276695" remote="130458402580000000" Dst="2" />
+<file name="Authorize.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584286696" remote="130458402580000000" Dst="2" />
+<file name="AuthorizeAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584306698" remote="130458402580000000" Dst="2" />
+<file name="AuthorizeAwareServiceInitializer.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584316699" remote="130458402580000000" Dst="2" />
+<file name="AuthorizeFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584326700" remote="130458402580000000" Dst="2" />
+<file name="BaseProvidersServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584336701" remote="130458402580000000" Dst="2" />
+<file name="CacheFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584346702" remote="130458402580000000" Dst="2" />
+<file name="ConfigResourceProviderServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584356703" remote="130458402580000000" Dst="2" />
+<file name="ConfigRoleProviderServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584366704" remote="130458402580000000" Dst="2" />
+<file name="ConfigRuleProviderServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584376705" remote="130458402580000000" Dst="2" />
+<file name="ConfigServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584386706" remote="130458402580000000" Dst="2" />
+<file name="ControllerGuardServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584396707" remote="130458402580000000" Dst="2" />
+<file name="GuardsServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584406708" remote="130458402580000000" Dst="2" />
+<file name="IdentityProviderServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584416709" remote="130458402580000000" Dst="2" />
+<file name="ObjectRepositoryRoleProviderFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584426710" remote="130458402580000000" Dst="2" />
+<file name="ResourceProvidersServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584436711" remote="130458402580000000" Dst="2" />
+<file name="RoleCollectorServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584446712" remote="130458402580000000" Dst="2" />
+<file name="RoleProvidersServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584456713" remote="130458402580000000" Dst="2" />
+<file name="RouteGuardServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584466714" remote="130458402580000000" Dst="2" />
+<file name="RuleProvidersServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584476715" remote="130458402580000000" Dst="2" />
+<file name="UnauthorizedStrategyServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584486716" remote="130458402580000000" Dst="2" />
+<file name="ZendDbRoleProviderServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584496717" remote="130458402580000000" Dst="2" />
+<file name="ZfcUserZendDbIdentityProviderServiceFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402584506718" remote="130458402580000000" Dst="2" />
+</dwsync>

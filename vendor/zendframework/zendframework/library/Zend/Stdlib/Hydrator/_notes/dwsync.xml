@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractHydrator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535983746877" remote="130450535980000000" Dst="2" />
+<file name="ArraySerializable.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535985309812" remote="130450535980000000" Dst="2" />
+<file name="ClassMethods.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535983955932" remote="130450535980000000" Dst="2" />
+<file name="FilterEnabledInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535983836472" remote="130450535980000000" Dst="2" />
+<file name="HydrationInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535983876292" remote="130450535980000000" Dst="2" />
+<file name="HydratorAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535984075392" remote="130450535980000000" Dst="2" />
+<file name="HydratorAwareTrait.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535983796652" remote="130450535980000000" Dst="2" />
+<file name="HydratorInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535983707057" remote="130450535980000000" Dst="2" />
+<file name="HydratorOptionsInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535983995752" remote="130450535980000000" Dst="2" />
+<file name="HydratorPluginManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535985349632" remote="130450535980000000" Dst="2" />
+<file name="NamingStrategyEnabledInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535983916112" remote="130450535980000000" Dst="2" />
+<file name="ObjectProperty.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535982333267" remote="130450535980000000" Dst="2" />
+<file name="Reflection.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535984035572" remote="130450535980000000" Dst="2" />
+<file name="StrategyEnabledInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535984115212" remote="130450535980000000" Dst="2" />
+<file name="AbstractHydrator.php" server="192.168.1.27/delovodnik/" local="130450535983746877" remote="130461765000000000" Dst="2" />
+<file name="ArraySerializable.php" server="192.168.1.27/delovodnik/" local="130450535985309812" remote="130461765000000000" Dst="2" />
+<file name="ClassMethods.php" server="192.168.1.27/delovodnik/" local="130450535983955932" remote="130461765000000000" Dst="2" />
+<file name="FilterEnabledInterface.php" server="192.168.1.27/delovodnik/" local="130450535983836472" remote="130461765000000000" Dst="2" />
+<file name="HydrationInterface.php" server="192.168.1.27/delovodnik/" local="130450535983876292" remote="130461765000000000" Dst="2" />
+<file name="HydratorAwareInterface.php" server="192.168.1.27/delovodnik/" local="130450535984075392" remote="130461765000000000" Dst="2" />
+<file name="HydratorAwareTrait.php" server="192.168.1.27/delovodnik/" local="130450535983796652" remote="130461765000000000" Dst="2" />
+<file name="HydratorInterface.php" server="192.168.1.27/delovodnik/" local="130450535983707057" remote="130461765000000000" Dst="2" />
+<file name="HydratorOptionsInterface.php" server="192.168.1.27/delovodnik/" local="130450535983995752" remote="130461765000000000" Dst="2" />
+<file name="HydratorPluginManager.php" server="192.168.1.27/delovodnik/" local="130450535985349632" remote="130461765000000000" Dst="2" />
+<file name="NamingStrategyEnabledInterface.php" server="192.168.1.27/delovodnik/" local="130450535983916112" remote="130461765000000000" Dst="2" />
+<file name="ObjectProperty.php" server="192.168.1.27/delovodnik/" local="130450535982333267" remote="130461765000000000" Dst="2" />
+<file name="Reflection.php" server="192.168.1.27/delovodnik/" local="130450535984035572" remote="130461765000000000" Dst="2" />
+<file name="StrategyEnabledInterface.php" server="192.168.1.27/delovodnik/" local="130450535984115212" remote="130461765000000000" Dst="2" />
+</dwsync>

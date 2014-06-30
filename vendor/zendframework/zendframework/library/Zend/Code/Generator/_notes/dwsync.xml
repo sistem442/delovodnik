@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractGenerator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535941677047" remote="130450535940000000" Dst="2" />
+<file name="AbstractMemberGenerator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535943249937" remote="130450535940000000" Dst="2" />
+<file name="BodyGenerator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535943339532" remote="130450535940000000" Dst="2" />
+<file name="ClassGenerator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535943170297" remote="130450535940000000" Dst="2" />
+<file name="DocBlockGenerator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535943429127" remote="130450535940000000" Dst="2" />
+<file name="FileGenerator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535943379352" remote="130450535940000000" Dst="2" />
+<file name="FileGeneratorRegistry.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535943210117" remote="130450535940000000" Dst="2" />
+<file name="GeneratorInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535943478902" remote="130450535940000000" Dst="2" />
+<file name="MethodGenerator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535943508767" remote="130450535940000000" Dst="2" />
+<file name="ParameterGenerator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535943558542" remote="130450535940000000" Dst="2" />
+<file name="PropertyGenerator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535943110567" remote="130450535940000000" Dst="2" />
+<file name="PropertyValueGenerator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535943767597" remote="130450535940000000" Dst="2" />
+<file name="ValueGenerator.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535943299712" remote="130450535940000000" Dst="2" />
+</dwsync>

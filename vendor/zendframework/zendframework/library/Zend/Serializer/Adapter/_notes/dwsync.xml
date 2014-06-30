@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractAdapter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535940054382" remote="130450535940000000" Dst="2" />
+<file name="AdapterInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535939934922" remote="130450535930000000" Dst="2" />
+<file name="AdapterOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535939855282" remote="130450535930000000" Dst="2" />
+<file name="IgBinary.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535940094202" remote="130450535940000000" Dst="2" />
+<file name="Json.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535939755732" remote="130450535930000000" Dst="2" />
+<file name="JsonOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535940124067" remote="130450535940000000" Dst="2" />
+<file name="MsgPack.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535940173842" remote="130450535940000000" Dst="2" />
+<file name="PhpCode.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535939974742" remote="130450535930000000" Dst="2" />
+<file name="PhpSerialize.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535939895102" remote="130450535930000000" Dst="2" />
+<file name="PythonPickle.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535939795552" remote="130450535930000000" Dst="2" />
+<file name="PythonPickleOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535940213662" remote="130450535940000000" Dst="2" />
+<file name="Wddx.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535940253482" remote="130450535940000000" Dst="2" />
+<file name="WddxOptions.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535940014562" remote="130450535940000000" Dst="2" />
+<file name="AbstractAdapter.php" server="192.168.1.27/delovodnik/" local="130450535940054382" remote="130461765000000000" Dst="2" />
+<file name="AdapterInterface.php" server="192.168.1.27/delovodnik/" local="130450535939934922" remote="130461765000000000" Dst="2" />
+<file name="AdapterOptions.php" server="192.168.1.27/delovodnik/" local="130450535939855282" remote="130461765000000000" Dst="2" />
+<file name="IgBinary.php" server="192.168.1.27/delovodnik/" local="130450535940094202" remote="130461765000000000" Dst="2" />
+<file name="Json.php" server="192.168.1.27/delovodnik/" local="130450535939755732" remote="130461765000000000" Dst="2" />
+<file name="JsonOptions.php" server="192.168.1.27/delovodnik/" local="130450535940124067" remote="130461765000000000" Dst="2" />
+<file name="MsgPack.php" server="192.168.1.27/delovodnik/" local="130450535940173842" remote="130461765000000000" Dst="2" />
+<file name="PhpCode.php" server="192.168.1.27/delovodnik/" local="130450535939974742" remote="130461765000000000" Dst="2" />
+<file name="PhpSerialize.php" server="192.168.1.27/delovodnik/" local="130450535939895102" remote="130461765000000000" Dst="2" />
+<file name="PythonPickle.php" server="192.168.1.27/delovodnik/" local="130450535939795552" remote="130461765000000000" Dst="2" />
+<file name="PythonPickleOptions.php" server="192.168.1.27/delovodnik/" local="130450535940213662" remote="130461765000000000" Dst="2" />
+<file name="Wddx.php" server="192.168.1.27/delovodnik/" local="130450535940253482" remote="130461765000000000" Dst="2" />
+<file name="WddxOptions.php" server="192.168.1.27/delovodnik/" local="130450535940014562" remote="130461765000000000" Dst="2" />
+</dwsync>

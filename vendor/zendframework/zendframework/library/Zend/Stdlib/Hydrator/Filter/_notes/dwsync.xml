@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="FilterComposite.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535984433772" remote="130450535980000000" Dst="2" />
+<file name="FilterInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535984393952" remote="130450535980000000" Dst="2" />
+<file name="FilterProviderInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535984164987" remote="130450535980000000" Dst="2" />
+<file name="GetFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535984354132" remote="130450535980000000" Dst="2" />
+<file name="HasFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535984204807" remote="130450535980000000" Dst="2" />
+<file name="IsFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535984244627" remote="130450535980000000" Dst="2" />
+<file name="MethodMatchFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535984284447" remote="130450535980000000" Dst="2" />
+<file name="NumberOfParameterFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535984324267" remote="130450535980000000" Dst="2" />
+<file name="OptionalParametersFilter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535984483547" remote="130450535980000000" Dst="2" />
+<file name="FilterComposite.php" server="192.168.1.27/delovodnik/" local="130450535984433772" remote="130461765000000000" Dst="2" />
+<file name="FilterInterface.php" server="192.168.1.27/delovodnik/" local="130450535984393952" remote="130461765000000000" Dst="2" />
+<file name="FilterProviderInterface.php" server="192.168.1.27/delovodnik/" local="130450535984164987" remote="130461765000000000" Dst="2" />
+<file name="GetFilter.php" server="192.168.1.27/delovodnik/" local="130450535984354132" remote="130461765000000000" Dst="2" />
+<file name="HasFilter.php" server="192.168.1.27/delovodnik/" local="130450535984204807" remote="130461765000000000" Dst="2" />
+<file name="IsFilter.php" server="192.168.1.27/delovodnik/" local="130450535984244627" remote="130461765000000000" Dst="2" />
+<file name="MethodMatchFilter.php" server="192.168.1.27/delovodnik/" local="130450535984284447" remote="130461765000000000" Dst="2" />
+<file name="NumberOfParameterFilter.php" server="192.168.1.27/delovodnik/" local="130450535984324267" remote="130461765000000000" Dst="2" />
+<file name="OptionalParametersFilter.php" server="192.168.1.27/delovodnik/" local="130450535984483547" remote="130461765000000000" Dst="2" />
+</dwsync>

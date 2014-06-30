@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractFeed.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535895804407" remote="130450535890000000" Dst="2" />
+<file name="Deleted.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535893544622" remote="130450535890000000" Dst="2" />
+<file name="Entry.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535893415207" remote="130450535890000000" Dst="2" />
+<file name="ExtensionManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535895864137" remote="130450535890000000" Dst="2" />
+<file name="ExtensionManagerInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535896113012" remote="130450535890000000" Dst="2" />
+<file name="ExtensionPluginManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535895764587" remote="130450535890000000" Dst="2" />
+<file name="Feed.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535893464982" remote="130450535890000000" Dst="2" />
+<file name="FeedFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535891832362" remote="130450535890000000" Dst="2" />
+<file name="Source.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535893375387" remote="130450535890000000" Dst="2" />
+<file name="Version.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535893514757" remote="130450535890000000" Dst="2" />
+<file name="Writer.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535891882137" remote="130450535890000000" Dst="2" />
+<file name="AbstractFeed.php" server="192.168.1.27/delovodnik/" local="130450535895804407" remote="130461764400000000" Dst="2" />
+<file name="Deleted.php" server="192.168.1.27/delovodnik/" local="130450535893544622" remote="130461764400000000" Dst="2" />
+<file name="Entry.php" server="192.168.1.27/delovodnik/" local="130450535893415207" remote="130461764400000000" Dst="2" />
+<file name="ExtensionManager.php" server="192.168.1.27/delovodnik/" local="130450535895864137" remote="130461764400000000" Dst="2" />
+<file name="ExtensionManagerInterface.php" server="192.168.1.27/delovodnik/" local="130450535896113012" remote="130461764400000000" Dst="2" />
+<file name="ExtensionPluginManager.php" server="192.168.1.27/delovodnik/" local="130450535895764587" remote="130461764400000000" Dst="2" />
+<file name="Feed.php" server="192.168.1.27/delovodnik/" local="130450535893464982" remote="130461764400000000" Dst="2" />
+<file name="FeedFactory.php" server="192.168.1.27/delovodnik/" local="130450535891832362" remote="130461764400000000" Dst="2" />
+<file name="Source.php" server="192.168.1.27/delovodnik/" local="130450535893375387" remote="130461764400000000" Dst="2" />
+<file name="Version.php" server="192.168.1.27/delovodnik/" local="130450535893514757" remote="130461764400000000" Dst="2" />
+<file name="Writer.php" server="192.168.1.27/delovodnik/" local="130450535891882137" remote="130461764400000000" Dst="2" />
+</dwsync>

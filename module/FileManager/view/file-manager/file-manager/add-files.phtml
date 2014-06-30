@@ -1,0 +1,30 @@
+<script type="text/javascript">
+//***************************funkcija za upload vise fajlova****************************
+var sledeci = 0; //cuva redni broj/ime sledeceg inputa fajla
+function display() {
+	var id = sledeci;
+	document.getElementById('number_of_files').value = sledeci + 1;//upisujem koliko ima fajlova da bih znao koliko puta treba da vrtim petlju za upis u bazu
+	document.getElementById('newInput'+id).innerHTML+=createInput(id);// ovo upisuje novi input na html stranicu
+	var newInput = "fajl" + id;
+	document.getElementById('fajl'+id).click();// automatski trazi da izaberes fajl kada pritisnes link za novi fajl
+}
+function createInput(id) {
+	sledeci = id + 1;
+	return "<p>Fajl "+ id +": <input type='file' id='file"+ id +"' name='"+id+"'></p><br />Komentar:<input type='text' name='"+id+"label'><br /><p id='newInput"+sledeci+"'>&nbsp;</p>";
+}
+</script>
+<h2>Fajlovi povezani sa delovodnim brojem:</h2>
+
+<hr />
+<form action="/file-manager/FileManager/processUpload/<?php  echo $data_table_id; ?>" method="post" enctype="multipart/form-data"/>
+<div class="left">Upload fajlova:</div>
+  <div class="right">
+    <input  type="hidden" name="number_of_files" id="number_of_files" value="0"/>
+     <br />
+    <p id="newInput0">&nbsp;</p>
+    <p><a href="javascript:display()">Dodaj fajl</a></p>
+    <br />
+    <br />
+  </div>
+<input type="submit" value="Pošalji fajlove"/>
+</form>

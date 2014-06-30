@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402599878255" remote="130458402590000000" Dst="2" />
+<file name="CacheFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402599918259" remote="130458402590000000" Dst="2" />
+<file name="CliControllerFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402599928260" remote="130458402590000000" Dst="2" />
+<file name="CliFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402599928260" remote="130458402590000000" Dst="2" />
+<file name="DriverFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402599938261" remote="130458402590000000" Dst="2" />
+<file name="EventManagerFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402599938261" remote="130458402590000000" Dst="2" />
+<file name="SymfonyCliRouteFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402599948262" remote="130458402590000000" Dst="2" />
+<file name="ZendStorageCacheFactory.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402599948262" remote="130458402590000000" Dst="2" />
+</dwsync>

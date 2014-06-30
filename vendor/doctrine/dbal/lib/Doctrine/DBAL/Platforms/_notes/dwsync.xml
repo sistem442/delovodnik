@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractPlatform.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592547522" remote="130458402590000000" Dst="2" />
+<file name="DB2Platform.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592557523" remote="130458402590000000" Dst="2" />
+<file name="DrizzlePlatform.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592557523" remote="130458402590000000" Dst="2" />
+<file name="MySqlPlatform.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592637531" remote="130458402590000000" Dst="2" />
+<file name="OraclePlatform.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592647532" remote="130458402590000000" Dst="2" />
+<file name="PostgreSqlPlatform.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592647532" remote="130458402590000000" Dst="2" />
+<file name="SQLAzurePlatform.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592657533" remote="130458402590000000" Dst="2" />
+<file name="SqlitePlatform.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592677535" remote="130458402590000000" Dst="2" />
+<file name="SQLServer2005Platform.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592657533" remote="130458402590000000" Dst="2" />
+<file name="SQLServer2008Platform.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592657533" remote="130458402590000000" Dst="2" />
+<file name="SQLServer2012Platform.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592667534" remote="130458402590000000" Dst="2" />
+<file name="SQLServerPlatform.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592677535" remote="130458402590000000" Dst="2" />
+</dwsync>

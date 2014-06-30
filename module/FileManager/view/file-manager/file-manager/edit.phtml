@@ -1,0 +1,46 @@
+<!-- css -->
+<?php $this->headLink()
+            ->prependStylesheet($this->basePath() . '/js/jqueryUI/themes/ui-darkness/jquery-ui.css'); ?>
+<!-- Js -->            
+<?php  $this->headScript()
+            ->appendFile($this->basePath() . '/js/jqueryUI/ui/jquery-ui.custom.js') 
+            ->appendFile($this->basePath() . '/js/file_manager_delete_file_ajax.js')
+			->appendFile($this->basePath() . '/js/file_manager_add_file.js'); ?>
+<h2>Fajlovi povezani sa delovodnim brojem:</h2>
+
+<table class="table">
+<tr>
+    <th>Komentar</th>
+    <th>Ime fajla</th>
+    <th>Akcija</th>    
+    <th>Akcija</th>
+	<th>Akcija</th>
+</tr>
+<?php foreach ($files as $file) : ?>
+<tr>
+    <td><?php echo $this->escapeHtml($file->label);?></td>
+    <td><?php echo $this->escapeHtml($file->original_file_name);?></td>
+	<td><a href="<?php echo $this->url('file-manager/default', // SUPER IMPORTANT use csn-file-manager/<segment> NOT ONLY grace-drops
+            array('controller' => 'FileManager', 'action'=>'view', 'id' => $file->id));?>">Pogledaj</a>    </td>
+<td><a href="/file-manager/FileManager/download/<?php echo $file->id;?>"</a>Preuzmi fajl</td>
+	<td>
+        <div id="div<?php echo $file->id;?>"><a href="#" id="<?php echo $file->id;?>"  param1='<?php echo $file->id;?>' class="delete_file" >Obriši fajl</a></div>
+    </td>
+</tr>
+<?php 
+	endforeach; 
+?>
+</table>
+<hr />
+<form action="/file-manager/FileManager/processUpload/<?php echo  $file->data_table_id; ?>" method="post" enctype="multipart/form-data"/>
+<div class="left">Upload fajlova:</div>
+  <div class="right">
+    <input  type="hidden" name="number_of_files" id="number_of_files" value="0"/>
+     <br />
+    <p id="newInput0">&nbsp;</p>
+    <p><a href="javascript:display()">Dodaj još fajlova</a></p>
+    <br />
+    <br />
+  </div>
+<input type="submit" value="Pošalji fajlove"/>
+</form>

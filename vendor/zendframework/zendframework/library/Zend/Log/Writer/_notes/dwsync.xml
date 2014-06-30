@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractWriter.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535975334902" remote="130450535970000000" Dst="2" />
+<file name="ChromePhp.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976609142" remote="130450535970000000" Dst="2" />
+<file name="Db.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976648962" remote="130450535970000000" Dst="2" />
+<file name="FilterPluginManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535977047162" remote="130450535970000000" Dst="2" />
+<file name="FingersCrossed.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976469772" remote="130450535970000000" Dst="2" />
+<file name="FirePhp.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976818197" remote="130450535970000000" Dst="2" />
+<file name="FormatterPluginManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976429952" remote="130450535970000000" Dst="2" />
+<file name="Mail.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976559367" remote="130450535970000000" Dst="2" />
+<file name="Mock.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976738557" remote="130450535970000000" Dst="2" />
+<file name="MongoDB.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976698737" remote="130450535970000000" Dst="2" />
+<file name="Null.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976390132" remote="130450535970000000" Dst="2" />
+<file name="Stream.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976768422" remote="130450535970000000" Dst="2" />
+<file name="Syslog.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976519547" remote="130450535970000000" Dst="2" />
+<file name="WriterInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976858017" remote="130450535970000000" Dst="2" />
+<file name="ZendMonitor.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535976350312" remote="130450535970000000" Dst="2" />
+<file name="AbstractWriter.php" server="192.168.1.27/delovodnik/" local="130450535975334902" remote="130461764400000000" Dst="2" />
+<file name="ChromePhp.php" server="192.168.1.27/delovodnik/" local="130450535976609142" remote="130461764400000000" Dst="2" />
+<file name="Db.php" server="192.168.1.27/delovodnik/" local="130450535976648962" remote="130461764400000000" Dst="2" />
+<file name="FilterPluginManager.php" server="192.168.1.27/delovodnik/" local="130450535977047162" remote="130461764400000000" Dst="2" />
+<file name="FingersCrossed.php" server="192.168.1.27/delovodnik/" local="130450535976469772" remote="130461764400000000" Dst="2" />
+<file name="FirePhp.php" server="192.168.1.27/delovodnik/" local="130450535976818197" remote="130461764400000000" Dst="2" />
+<file name="FormatterPluginManager.php" server="192.168.1.27/delovodnik/" local="130450535976429952" remote="130461764400000000" Dst="2" />
+<file name="Mail.php" server="192.168.1.27/delovodnik/" local="130450535976559367" remote="130461764400000000" Dst="2" />
+<file name="Mock.php" server="192.168.1.27/delovodnik/" local="130450535976738557" remote="130461764400000000" Dst="2" />
+<file name="MongoDB.php" server="192.168.1.27/delovodnik/" local="130450535976698737" remote="130461764400000000" Dst="2" />
+<file name="Null.php" server="192.168.1.27/delovodnik/" local="130450535976390132" remote="130461764400000000" Dst="2" />
+<file name="Stream.php" server="192.168.1.27/delovodnik/" local="130450535976768422" remote="130461764400000000" Dst="2" />
+<file name="Syslog.php" server="192.168.1.27/delovodnik/" local="130450535976519547" remote="130461764400000000" Dst="2" />
+<file name="WriterInterface.php" server="192.168.1.27/delovodnik/" local="130450535976858017" remote="130461764400000000" Dst="2" />
+<file name="ZendMonitor.php" server="192.168.1.27/delovodnik/" local="130450535976350312" remote="130461764400000000" Dst="2" />
+</dwsync>

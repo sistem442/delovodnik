@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCallback.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535902872457" remote="130450535900000000" Dst="2" />
+<file name="CallbackInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535902205472" remote="130450535900000000" Dst="2" />
+<file name="HttpResponse.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535902832637" remote="130450535900000000" Dst="2" />
+<file name="Publisher.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535902245292" remote="130450535900000000" Dst="2" />
+<file name="PubSubHubbub.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535903181062" remote="130450535900000000" Dst="2" />
+<file name="Subscriber.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535902912277" remote="130450535900000000" Dst="2" />
+<file name="Version.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535902972007" remote="130450535900000000" Dst="2" />
+<file name="AbstractCallback.php" server="192.168.1.27/delovodnik/" local="130450535902872457" remote="130461764400000000" Dst="2" />
+<file name="CallbackInterface.php" server="192.168.1.27/delovodnik/" local="130450535902205472" remote="130461764400000000" Dst="2" />
+<file name="HttpResponse.php" server="192.168.1.27/delovodnik/" local="130450535902832637" remote="130461764400000000" Dst="2" />
+<file name="Publisher.php" server="192.168.1.27/delovodnik/" local="130450535902245292" remote="130461764400000000" Dst="2" />
+<file name="PubSubHubbub.php" server="192.168.1.27/delovodnik/" local="130450535903181062" remote="130461764400000000" Dst="2" />
+<file name="Subscriber.php" server="192.168.1.27/delovodnik/" local="130450535902912277" remote="130461764400000000" Dst="2" />
+<file name="Version.php" server="192.168.1.27/delovodnik/" local="130450535902972007" remote="130461764400000000" Dst="2" />
+</dwsync>

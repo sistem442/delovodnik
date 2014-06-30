@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractListenerAggregate.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953692732" remote="130450535950000000" Dst="2" />
+<file name="composer.json" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953453812" remote="130450535950000000" Dst="2" />
+<file name="Event.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953772372" remote="130450535950000000" Dst="2" />
+<file name="EventInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535952259212" remote="130450535950000000" Dst="2" />
+<file name="EventManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953533452" remote="130450535950000000" Dst="2" />
+<file name="EventManagerAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953583227" remote="130450535950000000" Dst="2" />
+<file name="EventManagerAwareTrait.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535952169617" remote="130450535950000000" Dst="2" />
+<file name="EventManagerInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953951562" remote="130450535950000000" Dst="2" />
+<file name="EventsCapableInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953991382" remote="130450535950000000" Dst="2" />
+<file name="FilterChain.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953901787" remote="130450535950000000" Dst="2" />
+<file name="GlobalEventManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535954021247" remote="130450535950000000" Dst="2" />
+<file name="ListenerAggregateInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953623047" remote="130450535950000000" Dst="2" />
+<file name="ListenerAggregateTrait.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535952209437" remote="130450535950000000" Dst="2" />
+<file name="ProvidesEvents.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953732552" remote="130450535950000000" Dst="2" />
+<file name="README.md" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535952418492" remote="130450535950000000" Dst="2" />
+<file name="ResponseCollection.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953493632" remote="130450535950000000" Dst="2" />
+<file name="SharedEventAggregateAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953652912" remote="130450535950000000" Dst="2" />
+<file name="SharedEventManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535952299032" remote="130450535950000000" Dst="2" />
+<file name="SharedEventManagerAwareInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535952338852" remote="130450535950000000" Dst="2" />
+<file name="SharedEventManagerInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953861967" remote="130450535950000000" Dst="2" />
+<file name="SharedListenerAggregateInterface.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535952378672" remote="130450535950000000" Dst="2" />
+<file name="StaticEventManager.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535953822147" remote="130450535950000000" Dst="2" />
+<file name="AbstractListenerAggregate.php" server="192.168.1.27/delovodnik/" local="130450535953692732" remote="130461764400000000" Dst="2" />
+<file name="composer.json" server="192.168.1.27/delovodnik/" local="130450535953453812" remote="130461764400000000" Dst="2" />
+<file name="Event.php" server="192.168.1.27/delovodnik/" local="130450535953772372" remote="130461764400000000" Dst="2" />
+<file name="EventInterface.php" server="192.168.1.27/delovodnik/" local="130450535952259212" remote="130461764400000000" Dst="2" />
+<file name="EventManager.php" server="192.168.1.27/delovodnik/" local="130450535953533452" remote="130461764400000000" Dst="2" />
+<file name="EventManagerAwareInterface.php" server="192.168.1.27/delovodnik/" local="130450535953583227" remote="130461764400000000" Dst="2" />
+<file name="EventManagerAwareTrait.php" server="192.168.1.27/delovodnik/" local="130450535952169617" remote="130461764400000000" Dst="2" />
+<file name="EventManagerInterface.php" server="192.168.1.27/delovodnik/" local="130450535953951562" remote="130461764400000000" Dst="2" />
+<file name="EventsCapableInterface.php" server="192.168.1.27/delovodnik/" local="130450535953991382" remote="130461764400000000" Dst="2" />
+<file name="FilterChain.php" server="192.168.1.27/delovodnik/" local="130450535953901787" remote="130461764400000000" Dst="2" />
+<file name="GlobalEventManager.php" server="192.168.1.27/delovodnik/" local="130450535954021247" remote="130461764400000000" Dst="2" />
+<file name="ListenerAggregateInterface.php" server="192.168.1.27/delovodnik/" local="130450535953623047" remote="130461764400000000" Dst="2" />
+<file name="ListenerAggregateTrait.php" server="192.168.1.27/delovodnik/" local="130450535952209437" remote="130461764400000000" Dst="2" />
+<file name="ProvidesEvents.php" server="192.168.1.27/delovodnik/" local="130450535953732552" remote="130461764400000000" Dst="2" />
+<file name="README.md" server="192.168.1.27/delovodnik/" local="130450535952418492" remote="130461764400000000" Dst="2" />
+<file name="ResponseCollection.php" server="192.168.1.27/delovodnik/" local="130450535953493632" remote="130461764400000000" Dst="2" />
+<file name="SharedEventAggregateAwareInterface.php" server="192.168.1.27/delovodnik/" local="130450535953652912" remote="130461764400000000" Dst="2" />
+<file name="SharedEventManager.php" server="192.168.1.27/delovodnik/" local="130450535952299032" remote="130461764400000000" Dst="2" />
+<file name="SharedEventManagerAwareInterface.php" server="192.168.1.27/delovodnik/" local="130450535952338852" remote="130461764400000000" Dst="2" />
+<file name="SharedEventManagerInterface.php" server="192.168.1.27/delovodnik/" local="130450535953861967" remote="130461764400000000" Dst="2" />
+<file name="SharedListenerAggregateInterface.php" server="192.168.1.27/delovodnik/" local="130450535952378672" remote="130461764400000000" Dst="2" />
+<file name="StaticEventManager.php" server="192.168.1.27/delovodnik/" local="130450535953822147" remote="130461764400000000" Dst="2" />
+</dwsync>

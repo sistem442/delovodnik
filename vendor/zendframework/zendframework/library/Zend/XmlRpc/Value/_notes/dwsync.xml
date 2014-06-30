@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractCollection.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535934101292" remote="130450535930000000" Dst="2" />
+<file name="AbstractScalar.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535934380032" remote="130450535930000000" Dst="2" />
+<file name="ArrayValue.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535934449717" remote="130450535930000000" Dst="2" />
+<file name="Base64.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535934250617" remote="130450535930000000" Dst="2" />
+<file name="BigInteger.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535934141112" remote="130450535930000000" Dst="2" />
+<file name="Boolean.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535934180932" remote="130450535930000000" Dst="2" />
+<file name="DateTime.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535934021652" remote="130450535930000000" Dst="2" />
+<file name="Double.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535934409897" remote="130450535930000000" Dst="2" />
+<file name="Integer.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535934061472" remote="130450535930000000" Dst="2" />
+<file name="Nil.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535934220752" remote="130450535930000000" Dst="2" />
+<file name="String.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535934330257" remote="130450535930000000" Dst="2" />
+<file name="Struct.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130450535934290437" remote="130450535930000000" Dst="2" />
+<file name="AbstractCollection.php" server="192.168.1.27/delovodnik/" local="130450535934101292" remote="130461765000000000" Dst="2" />
+<file name="AbstractScalar.php" server="192.168.1.27/delovodnik/" local="130450535934380032" remote="130461765000000000" Dst="2" />
+<file name="ArrayValue.php" server="192.168.1.27/delovodnik/" local="130450535934449717" remote="130461765000000000" Dst="2" />
+<file name="Base64.php" server="192.168.1.27/delovodnik/" local="130450535934250617" remote="130461765000000000" Dst="2" />
+<file name="BigInteger.php" server="192.168.1.27/delovodnik/" local="130450535934141112" remote="130461765000000000" Dst="2" />
+<file name="Boolean.php" server="192.168.1.27/delovodnik/" local="130450535934180932" remote="130461765000000000" Dst="2" />
+<file name="DateTime.php" server="192.168.1.27/delovodnik/" local="130450535934021652" remote="130461765000000000" Dst="2" />
+<file name="Double.php" server="192.168.1.27/delovodnik/" local="130450535934409897" remote="130461765000000000" Dst="2" />
+<file name="Integer.php" server="192.168.1.27/delovodnik/" local="130450535934061472" remote="130461765000000000" Dst="2" />
+<file name="Nil.php" server="192.168.1.27/delovodnik/" local="130450535934220752" remote="130461765000000000" Dst="2" />
+<file name="String.php" server="192.168.1.27/delovodnik/" local="130450535934330257" remote="130461765000000000" Dst="2" />
+<file name="Struct.php" server="192.168.1.27/delovodnik/" local="130450535934290437" remote="130461765000000000" Dst="2" />
+</dwsync>

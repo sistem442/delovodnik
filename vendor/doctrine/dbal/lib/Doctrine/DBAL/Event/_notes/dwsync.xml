@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ConnectionEventArgs.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592407508" remote="130458402590000000" Dst="2" />
+<file name="SchemaAlterTableAddColumnEventArgs.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592437511" remote="130458402590000000" Dst="2" />
+<file name="SchemaAlterTableChangeColumnEventArgs.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592437511" remote="130458402590000000" Dst="2" />
+<file name="SchemaAlterTableEventArgs.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592447512" remote="130458402590000000" Dst="2" />
+<file name="SchemaAlterTableRemoveColumnEventArgs.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592447512" remote="130458402590000000" Dst="2" />
+<file name="SchemaAlterTableRenameColumnEventArgs.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592457513" remote="130458402590000000" Dst="2" />
+<file name="SchemaColumnDefinitionEventArgs.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592457513" remote="130458402590000000" Dst="2" />
+<file name="SchemaCreateTableColumnEventArgs.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592467514" remote="130458402590000000" Dst="2" />
+<file name="SchemaCreateTableEventArgs.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592467514" remote="130458402590000000" Dst="2" />
+<file name="SchemaDropTableEventArgs.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592477515" remote="130458402590000000" Dst="2" />
+<file name="SchemaEventArgs.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592477515" remote="130458402590000000" Dst="2" />
+<file name="SchemaIndexDefinitionEventArgs.php" server="C:/Magacin/Sajt/wamp/www/delovodnik/" local="130458402592477515" remote="130458402590000000" Dst="2" />
+</dwsync>
